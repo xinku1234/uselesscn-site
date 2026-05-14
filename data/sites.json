@@ -1,0 +1,611 @@
+[
+  {
+    "id": "pointer-pointer",
+    "title": "Pointer Pointer",
+    "url": "https://pointerpointer.com/",
+    "description": "A strangely specific site that finds a photo of someone pointing exactly at your cursor.",
+    "category": "Weird Interactive",
+    "language": "en",
+    "tags": [
+      "weird",
+      "interactive",
+      "classic"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-13",
+    "last_http_code": 200,
+    "last_latency_ms": 51,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "cat-bounce",
+    "title": "Cat Bounce",
+    "url": "https://cat-bounce.com/",
+    "description": "Cats bounce around the screen. That is basically the whole point, and somehow it is enough.",
+    "category": "Silly Relief",
+    "language": "en",
+    "tags": [
+      "cat",
+      "fun",
+      "classic"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-13",
+    "last_http_code": 200,
+    "last_latency_ms": 118,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "staggering-beauty",
+    "title": "Staggering Beauty",
+    "url": "https://www.staggeringbeauty.com/",
+    "description": "Wiggle your mouse and a tiny black creature dances wildly on the screen.",
+    "category": "Visual Chaos",
+    "language": "en",
+    "tags": [
+      "weird",
+      "mouse",
+      "visual"
+    ],
+    "status": "dead",
+    "featured": false,
+    "added_at": "2026-05-13",
+    "last_http_code": 0,
+    "last_latency_ms": 143,
+    "last_checked_at": "2026-05-14T06:41:59Z",
+    "last_error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)"
+  },
+  {
+    "id": "find-invisible-cow",
+    "title": "Find the Invisible Cow",
+    "url": "https://findtheinvisiblecow.com/",
+    "description": "Find an invisible cow by listening to the sound. Pointless, simple, oddly addictive.",
+    "category": "Audio Game",
+    "language": "en",
+    "tags": [
+      "audio",
+      "game",
+      "cow"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-13",
+    "last_http_code": 200,
+    "last_latency_ms": 29,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "long-doge-challenge",
+    "title": "Long Doge Challenge",
+    "url": "https://longdogechallenge.com/",
+    "description": "Stretch Doge forever and test how much scrolling your patience can survive.",
+    "category": "Patience Challenge",
+    "language": "en",
+    "tags": [
+      "doge",
+      "scroll",
+      "challenge"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-13",
+    "last_http_code": 200,
+    "last_latency_ms": 41,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "the-zen-zone",
+    "title": "The Zen Zone",
+    "url": "https://thezen.zone/",
+    "description": "A set of tiny interactive spaces for zoning out, breathing, and doing almost nothing.",
+    "category": "Calm & Zen",
+    "language": "en",
+    "tags": [
+      "zen",
+      "calm",
+      "relax"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-13",
+    "last_http_code": 200,
+    "last_latency_ms": 17,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "checkbox-race",
+    "title": "Checkbox Race",
+    "url": "https://checkboxrace.com/",
+    "description": "Race other people by clicking checkboxes. Not important. Very clicky.",
+    "category": "Pointless Competition",
+    "language": "en",
+    "tags": [
+      "checkbox",
+      "race",
+      "game"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-13",
+    "last_http_code": 200,
+    "last_latency_ms": 36,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "scream-into-void",
+    "title": "Scream Into The Void",
+    "url": "https://screamintothevoid.com/",
+    "description": "Type what you want to scream and throw it into the void. No reply. Very freeing.",
+    "category": "Emotional Outlet",
+    "language": "en",
+    "tags": [
+      "void",
+      "text",
+      "relief"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-13",
+    "last_http_code": 200,
+    "last_latency_ms": 80,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "neal-fun",
+    "title": "Neal.fun",
+    "url": "https://neal.fun/",
+    "description": "A collection of seriously well-made little web toys that can steal half an hour instantly.",
+    "category": "Useless Collection",
+    "language": "en",
+    "tags": [
+      "collection",
+      "fun",
+      "interactive"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 61,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "quick-draw-google",
+    "title": "Quick, Draw!",
+    "url": "https://quickdraw.withgoogle.com/",
+    "description": "Draw badly and let Google’s AI guess what your sketch is supposed to be.",
+    "category": "Drawing Game",
+    "language": "en",
+    "tags": [
+      "drawing",
+      "ai",
+      "game"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 61,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "window-swap",
+    "title": "Window Swap",
+    "url": "https://www.window-swap.com/",
+    "description": "Look through random windows around the world and pretend you are somewhere else.",
+    "category": "Calm & Travel",
+    "language": "en",
+    "tags": [
+      "window",
+      "travel",
+      "calm"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 194,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "radio-garden",
+    "title": "Radio Garden",
+    "url": "https://radio.garden/",
+    "description": "Spin the globe and listen to live radio stations from around the world.",
+    "category": "Audio Travel",
+    "language": "en",
+    "tags": [
+      "radio",
+      "map",
+      "travel"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 65,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "always-judge-book-cover",
+    "title": "Always Judge a Book by Its Cover",
+    "url": "https://alwaysjudgeabookbyitscover.com/",
+    "description": "A gallery proving that some books absolutely can be judged by their covers.",
+    "category": "Weird Gallery",
+    "language": "en",
+    "tags": [
+      "books",
+      "weird",
+      "gallery"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 16,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "mondrian-and-me",
+    "title": "Mondrian and Me",
+    "url": "https://mondrianandme.com/",
+    "description": "Drag, click and play with Mondrian-style blocks for no practical reason.",
+    "category": "Visual Interactive",
+    "language": "en",
+    "tags": [
+      "art",
+      "interactive",
+      "visual"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 45,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "zoomquilt",
+    "title": "Zoomquilt",
+    "url": "https://zoomquilt.org/",
+    "description": "An infinite zooming visual tunnel that may make you forget what you were doing.",
+    "category": "Visual Loop",
+    "language": "en",
+    "tags": [
+      "zoom",
+      "visual",
+      "infinite"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 51,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "koalas-to-the-max",
+    "title": "Koalas to the Max",
+    "url": "https://www.koalastothemax.com/",
+    "description": "Split circles again and again until a koala appears. The process is the point.",
+    "category": "Pointless Clicking",
+    "language": "en",
+    "tags": [
+      "koala",
+      "click",
+      "classic"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 290,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "rrrgggbbb",
+    "title": "rrrgggbbb",
+    "url": "https://www.rrrgggbbb.com/",
+    "description": "A mysterious red-green-blue playground. No instructions, just click around.",
+    "category": "Color Interactive",
+    "language": "en",
+    "tags": [
+      "color",
+      "rgb",
+      "interactive"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 346,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "hacker-typer",
+    "title": "Hacker Typer",
+    "url": "https://hackertyper.net/",
+    "description": "Mash your keyboard and instantly look like a Hollywood hacker.",
+    "category": "Pretend Work",
+    "language": "en",
+    "tags": [
+      "keyboard",
+      "hacker",
+      "pretend"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 23,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "bees-bees-bees",
+    "title": "Bees Bees Bees",
+    "url": "https://beesbeesbees.com/",
+    "description": "A gloriously silly burst of bees, dancing, and internet nonsense. Exactly as useful as it sounds.",
+    "category": "Silly Classic",
+    "language": "en",
+    "tags": [
+      "bees",
+      "silly",
+      "classic"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 94,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "paper-toilet",
+    "title": "Paper Toilet",
+    "url": "https://papertoilet.com/",
+    "description": "Drag the toilet paper roll forever. A tiny masterpiece of pointless interaction.",
+    "category": "Pointless Interaction",
+    "language": "en",
+    "tags": [
+      "toilet-paper",
+      "drag",
+      "weird"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 220,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "binary-piano",
+    "title": "Binary Piano",
+    "url": "https://binarypiano.com/",
+    "description": "Turn binary switches into little piano sounds and pretend you discovered a very tiny instrument.",
+    "category": "Audio Toy",
+    "language": "en",
+    "tags": [
+      "piano",
+      "binary",
+      "audio"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 18,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "falling-falling",
+    "title": "Falling Falling",
+    "url": "https://fallingfalling.com/",
+    "description": "A hypnotic falling color-and-sound loop that feels like the internet slowly melting.",
+    "category": "Visual Loop",
+    "language": "en",
+    "tags": [
+      "falling",
+      "sound",
+      "visual"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 217,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "ducks-are-the-best",
+    "title": "Ducks Are The Best",
+    "url": "https://ducksarethebest.com/",
+    "description": "Move your cursor and unleash an unreasonable number of ducks. Hard to explain, easy to enjoy.",
+    "category": "Cursor Toy",
+    "language": "en",
+    "tags": [
+      "ducks",
+      "cursor",
+      "silly"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 290,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "heeeeeeeey",
+    "title": "Heeeeeeeey",
+    "url": "https://heeeeeeeey.com/",
+    "description": "One of the shortest, dumbest, most charming websites online. It says what it needs to say.",
+    "category": "Tiny Joke",
+    "language": "en",
+    "tags": [
+      "minimal",
+      "joke",
+      "classic"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 11,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "random-colour",
+    "title": "Random Colour",
+    "url": "https://randomcolour.com/",
+    "description": "A full-screen random color. Refresh your mood one color at a time.",
+    "category": "Color Toy",
+    "language": "en",
+    "tags": [
+      "color",
+      "random",
+      "minimal"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 17,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "drawing-garden",
+    "title": "Drawing Garden",
+    "url": "https://drawing.garden/",
+    "description": "Draw gentle animated garden shapes in the browser and zone out for a while.",
+    "category": "Calm Drawing",
+    "language": "en",
+    "tags": [
+      "drawing",
+      "garden",
+      "calm"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 17,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "description": "Slide numbered tiles until you lose track of time. A classic quick browser game.",
+    "category": "Quick Game",
+    "language": "en",
+    "tags": [
+      "game",
+      "numbers",
+      "classic"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 55,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "flexbox-froggy",
+    "title": "Flexbox Froggy",
+    "url": "https://flexboxfroggy.com/",
+    "description": "A cute CSS game where frogs teach layout. Slightly useful, but still fun enough to belong here.",
+    "category": "Learning Game",
+    "language": "en",
+    "tags": [
+      "css",
+      "frog",
+      "game"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 40,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "server-survival",
+    "title": "Server Survival",
+    "url": "https://pshenok.github.io/server-survival/",
+    "description": "A tower-defense style web game about surviving traffic with infrastructure. Nerdy and playable.",
+    "category": "Nerd Game",
+    "language": "en",
+    "tags": [
+      "server",
+      "tower-defense",
+      "game"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 11,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "cut-bread",
+    "title": "Cut Bread",
+    "url": "https://stonet2000.github.io/Cut-Bread/",
+    "description": "Cut bread slices and see how evenly you did. A strangely specific skill nobody asked for.",
+    "category": "Pointless Challenge",
+    "language": "en",
+    "tags": [
+      "bread",
+      "challenge",
+      "github-pages"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 30,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "webgl-fluid-simulation",
+    "title": "WebGL Fluid Simulation",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+    "description": "Swirl colorful digital fluid around your screen. Beautiful, relaxing, and completely nonessential.",
+    "category": "Visual Interactive",
+    "language": "en",
+    "tags": [
+      "webgl",
+      "fluid",
+      "visual"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 13,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  },
+  {
+    "id": "css-doodle",
+    "title": "CSS Doodle",
+    "url": "https://css-doodle.com/",
+    "description": "A playground for generative CSS patterns and visual experiments. Great for creative wandering.",
+    "category": "Creative Coding",
+    "language": "en",
+    "tags": [
+      "css",
+      "generative",
+      "creative"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-14",
+    "last_http_code": 200,
+    "last_latency_ms": 17,
+    "last_checked_at": "2026-05-14T06:41:59Z"
+  }
+]

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g1" cx="18%" cy="18%" r="70%"><stop offset="0" stop-color="#ffef9a"/><stop offset="0.52" stop-color="#fffaf0"/><stop offset="1" stop-color="#ffd0e5"/></radialGradient>
+    <radialGradient id="g2" cx="86%" cy="20%" r="55%"><stop offset="0" stop-color="#b9efff" stop-opacity="0.95"/><stop offset="1" stop-color="#fffaf0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <text x="600" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="14" fill="#333">USELESSCN</text>
+  <text x="600" y="250" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="118" font-weight="900" letter-spacing="-7" fill="#111">TAKE ME TO A</text>
+  <text x="600" y="370" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="118" font-weight="900" letter-spacing="-7" fill="#111">USELESS WEBSITE</text>
+  <rect x="415" y="430" width="370" height="92" rx="46" fill="#fff" stroke="#111" stroke-width="8"/>
+  <text x="600" y="490" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900" letter-spacing="4" fill="#111">PLEASE</text>
+  <text x="600" y="575" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#333">Random weird, funny, beautifully pointless websites</text>
+</svg>
