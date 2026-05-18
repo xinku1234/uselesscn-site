@@ -1,0 +1,16 @@
+name,url,type,access_status,fit,notes,next_action
+GitHub repo,https://github.com/xinku1234/uselesscn-site,owned asset,available,high,Owned repository can provide a clean public backlink and project explanation,README updated and keep public
+Hacker News Show HN,https://news.ycombinator.com/submit,community,login_required,medium,Good if positioned as a tiny static playful web project; avoid marketing tone,User account required; use Show HN draft
+Reddit r/InternetIsBeautiful,https://www.reddit.com/r/InternetIsBeautiful/,community,login_required,high,Strong topical fit if rules allow self-promotion and title is honest,User account required; check rules first
+Reddit r/uselessweb,https://www.reddit.com/r/uselessweb/,community,login_required,high,Highly relevant if active and self posts allowed,User account required; check activity/rules
+Product Hunt,https://www.producthunt.com/posts/new,launch platform,login_required,medium,Could work after site reaches 100+ links and better visuals,Prepare launch later not today
+Indie Hackers,https://www.indiehackers.com/,community,login_required,medium,Good for build-in-public angle and monetization experiment,User account required; use Indie Hackers draft
+Tiny Startups,https://www.tinystartups.com/submit,directory,reachable,medium,Startup/tool submission page reachable; may accept small projects,Manual review before submitting
+Microlaunch,https://microlaunch.net/,launch platform,reachable,medium,Launch platform; likely account required,Consider after 100+ links
+Fazier,https://fazier.com/submit,directory,reachable,medium,Submit page reachable; likely login required,Manual review before submitting
+Dev Hunt,https://devhunt.org/submit,developer launch,reachable,medium,Developer launch site; may fit as a tiny web tool,Manual review before submitting
+BetaList,https://betalist.com/submit,startup directory,reachable,low,More startup/SaaS focused; may be paid or review-heavy,Defer
+AlternativeTo,https://alternativeto.net/software/,directory,blocked_by_http,low,Mostly alternatives to apps; UselessCN may not fit unless framed as alternative to The Useless Web,Defer
+SaaSHub,https://www.saashub.com/,directory,blocked_by_http,low,SaaS/software directory; weak fit for entertainment portal,Defer
+Pinterest,https://www.pinterest.com/,visual social,login_required,medium,Good for image pins if we generate visual assets,Create pins after OG/preview image polish
+X/Twitter,https://x.com/,social,login_required,medium,Good for build-in-public and weird-web threads,User account/API required
