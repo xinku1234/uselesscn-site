@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-17T05:03:18Z",
-  "total_sites": 46,
-  "alive_sites": 45,
-  "blocked_sites": 0,
+  "updated_at": "2026-05-18T04:00:00Z",
+  "total_sites": 58,
+  "alive_sites": 55,
+  "blocked_sites": 2,
   "dead_sites": 1,
-  "today_pick": "css-doodle",
-  "today_pick_title": "CSS Doodle"
+  "today_pick": "long-doge-challenge",
+  "today_pick_title": "Long Doge Challenge"
 }

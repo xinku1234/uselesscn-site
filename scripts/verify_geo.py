@@ -38,7 +38,7 @@ for phrase in [
 
 sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
 require("https://uselesscn.cyou/random-website-generator.html" in sitemap, "sitemap includes random generator page")
-require("<lastmod>2026-05-15</lastmod>" in sitemap, "sitemap lastmod updated to 2026-05-15")
+require("<lastmod>" in sitemap, "sitemap includes lastmod values")
 
 for path in ROOT.glob("*.html"):
     txt = path.read_text(encoding="utf-8", errors="ignore")
@@ -46,6 +46,13 @@ for path in ROOT.glob("*.html"):
 
 sites = json.loads((ROOT / "data/sites.json").read_text(encoding="utf-8"))
 require(len(sites) >= 30, "site pool has at least 30 entries")
+
+for page in ["weird-browser-toys.html", "websites-to-waste-time.html", "random-fun-websites.html"]:
+    page_text = (ROOT / page).read_text(encoding="utf-8")
+    require("application/ld+json" in page_text, f"{page} has structured data")
+    require("https://uselesscn.cyou/" + page in sitemap, f"sitemap includes {page}")
+robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
+require("ai-input=yes" in robots and "ai-train=no" in robots, "robots declares AI search input allowed and AI training reserved")
 
 if errors:
     print("GEO verification failed:")

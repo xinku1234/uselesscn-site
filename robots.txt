@@ -1,4 +1,28 @@
+# UselessCN crawler policy
+# Search indexing and AI answer grounding are welcome; model training is not granted by this file.
+
 User-agent: *
+Content-Signal: search=yes,ai-input=yes,ai-train=no
+Allow: /
+
+# Explicitly allow common AI-search and answer-grounding crawlers when they respect robots.txt.
+User-agent: GPTBot
+Content-Signal: search=yes,ai-input=yes,ai-train=no
+Allow: /
+
+User-agent: ClaudeBot
+Content-Signal: search=yes,ai-input=yes,ai-train=no
+Allow: /
+
+User-agent: PerplexityBot
+Content-Signal: search=yes,ai-input=yes,ai-train=no
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
 Allow: /
 
 Sitemap: https://uselesscn.cyou/sitemap.xml
+LLMS: https://uselesscn.cyou/llms.txt
