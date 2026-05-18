@@ -1184,5 +1184,195 @@
     "last_http_code": 200,
     "last_latency_ms": 603,
     "last_checked_at": "2026-05-18T05:04:29Z"
+  },
+  {
+    "id": "thats-the-finger",
+    "title": "That’s The Finger",
+    "url": "https://thatsthefinger.com/",
+    "description": "A single rude pixel hand follows your cursor. It is childish, pointless, and very much the internet.",
+    "category": "Tiny Joke",
+    "tags": [
+      "cursor",
+      "joke",
+      "classic"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "paint-toys",
+    "title": "Paint Toys",
+    "url": "https://paint.toys/",
+    "description": "A playful set of browser painting tools for making quick colorful messes.",
+    "category": "Creative Toy",
+    "tags": [
+      "paint",
+      "art",
+      "toy"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "autodraw",
+    "title": "AutoDraw",
+    "url": "https://www.autodraw.com/",
+    "description": "Doodle badly and let machine learning turn the sketch into cleaner icons and drawings.",
+    "category": "Drawing Toy",
+    "tags": [
+      "drawing",
+      "ai",
+      "creative"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "pug-in-a-rug",
+    "title": "Pug in a Rug",
+    "url": "https://puginarug.com/",
+    "description": "A pug, a rug, and a short silly moment that asks absolutely nothing from you.",
+    "category": "Silly Relief",
+    "tags": [
+      "dog",
+      "silly",
+      "quick"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "the-useless-web",
+    "title": "The Useless Web",
+    "url": "https://theuselessweb.com/",
+    "description": "The classic random button for useless websites, included as a reference point for the whole genre.",
+    "category": "Classic Randomizer",
+    "tags": [
+      "classic",
+      "random",
+      "useless"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "cache-monet",
+    "title": "Cache Monet",
+    "url": "https://cachemonet.com/",
+    "description": "Hypnotic screen-saver patterns for people who miss the old weird web.",
+    "category": "Visual Loop",
+    "tags": [
+      "visual",
+      "loop",
+      "retro"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "is-it-christmas",
+    "title": "Is It Christmas?",
+    "url": "https://isitchristmas.com/",
+    "description": "A one-question website with the kind of confidence most apps can only dream of.",
+    "category": "One-Purpose Site",
+    "tags": [
+      "minimal",
+      "joke",
+      "calendar"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "rainy-mood",
+    "title": "Rainy Mood",
+    "url": "https://www.rainymood.com/",
+    "description": "Instant rain ambience for pretending your short break is cinematic and peaceful.",
+    "category": "Ambient Calm",
+    "tags": [
+      "rain",
+      "audio",
+      "calm"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "sanger-dk",
+    "title": "Sanger.dk",
+    "url": "https://www.sanger.dk/",
+    "description": "A dog licks your screen. That is the whole website, and somehow it still deserves a place here.",
+    "category": "Animal Nonsense",
+    "tags": [
+      "dog",
+      "weird",
+      "classic"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "nyan-cat",
+    "title": "Nyan Cat",
+    "url": "https://www.nyan.cat/",
+    "description": "The rainbow cat loop that helped define a very specific era of pointless internet joy.",
+    "category": "Meme Classic",
+    "tags": [
+      "meme",
+      "cat",
+      "music"
+    ],
+    "language": "en",
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-18",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-05-18T09:31:55Z"
   }
 ]
