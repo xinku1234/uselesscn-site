@@ -1374,5 +1374,100 @@
     "last_http_code": 200,
     "last_latency_ms": 0,
     "last_checked_at": "2026-05-18T09:31:55Z"
+  },
+  {
+    "id": "neonflames",
+    "title": "Neonflames",
+    "url": "https://29a.ch/sandbox/2011/neonflames/",
+    "description": "Paint glowing nebula-like light trails in the browser and watch the screen turn into calm digital smoke.",
+    "category": "Browser Art Toy",
+    "language": "en",
+    "tags": [
+      "art",
+      "drawing",
+      "visual"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-19",
+    "last_http_code": 200,
+    "last_latency_ms": 30,
+    "last_checked_at": "2026-05-19T05:03:55Z"
+  },
+  {
+    "id": "draw-a-stickman",
+    "title": "Draw a Stickman",
+    "url": "https://drawastickman.com/",
+    "description": "Draw a little stick figure and send it through a playful interactive story built around your sketch.",
+    "category": "Drawing Game",
+    "language": "en",
+    "tags": [
+      "drawing",
+      "interactive",
+      "story"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-19",
+    "last_http_code": 200,
+    "last_latency_ms": 127,
+    "last_checked_at": "2026-05-19T05:03:55Z"
+  },
+  {
+    "id": "corndog-on-corndog",
+    "title": "Corn Dog on Corn Dog",
+    "url": "https://corndogoncorndog.com/",
+    "description": "A looping wall of dancing corn dogs. It explains itself instantly and then keeps going.",
+    "category": "Meme Loop",
+    "language": "en",
+    "tags": [
+      "meme",
+      "loop",
+      "silly"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-19",
+    "last_http_code": 200,
+    "last_latency_ms": 70,
+    "last_checked_at": "2026-05-19T05:03:55Z"
+  },
+  {
+    "id": "passive-aggressive-passwords",
+    "title": "Passive Aggressive Passwords",
+    "url": "https://trypap.com/",
+    "description": "Type a password and receive unnecessarily judgmental feedback from a tiny passive-aggressive web toy.",
+    "category": "Text Toy",
+    "language": "en",
+    "tags": [
+      "text",
+      "password",
+      "funny"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-19",
+    "last_http_code": 200,
+    "last_latency_ms": 68,
+    "last_checked_at": "2026-05-19T05:03:55Z"
+  },
+  {
+    "id": "smash-the-walls",
+    "title": "Smash The Walls",
+    "url": "https://smashthewalls.com/",
+    "description": "Click to smash digital brick walls when your brain wants a harmless tiny burst of destruction.",
+    "category": "Click Toy",
+    "language": "en",
+    "tags": [
+      "click",
+      "stress",
+      "toy"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-19",
+    "last_http_code": 200,
+    "last_latency_ms": 22,
+    "last_checked_at": "2026-05-19T05:03:55Z"
   }
 ]
