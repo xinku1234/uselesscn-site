@@ -1469,5 +1469,100 @@
     "last_http_code": 200,
     "last_latency_ms": 22,
     "last_checked_at": "2026-05-19T05:03:55Z"
+  },
+  {
+    "id": "orb-farm",
+    "title": "Orb.Farm",
+    "url": "https://orb.farm/",
+    "description": "Build a tiny virtual aquarium ecosystem with algae, fish, sand, glass, water and gentle pixel-life chaos.",
+    "category": "Ecosystem Toy",
+    "language": "en",
+    "tags": [
+      "ecosystem",
+      "sandbox",
+      "relaxing"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-20",
+    "last_http_code": 200,
+    "last_latency_ms": 120,
+    "last_checked_at": "2026-05-20T13:00:00Z"
+  },
+  {
+    "id": "jspaint",
+    "title": "JS Paint",
+    "url": "https://jspaint.app/",
+    "description": "A nostalgic browser paint app for making quick pixel messes, doodles and retro interface art without installing anything.",
+    "category": "Browser Art Toy",
+    "language": "en",
+    "tags": [
+      "paint",
+      "retro",
+      "creative"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-20",
+    "last_http_code": 200,
+    "last_latency_ms": 58,
+    "last_checked_at": "2026-05-20T13:00:00Z"
+  },
+  {
+    "id": "cross-divisions",
+    "title": "Cross Divisions",
+    "url": "https://crossdivisions.com/",
+    "description": "Move through a hypnotic field of shifting lines and color until the screen feels like a tiny optical detour.",
+    "category": "Visual Loop",
+    "language": "en",
+    "tags": [
+      "visual",
+      "hypnotic",
+      "interactive"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-20",
+    "last_http_code": 200,
+    "last_latency_ms": 243,
+    "last_checked_at": "2026-05-20T13:00:00Z"
+  },
+  {
+    "id": "chrome-music-lab-kandinsky",
+    "title": "Kandinsky by Chrome Music Lab",
+    "url": "https://musiclab.chromeexperiments.com/Kandinsky/",
+    "description": "Draw shapes and hear them turn into sound in a colorful browser experiment inspired by Kandinsky.",
+    "category": "Music Drawing Toy",
+    "language": "en",
+    "tags": [
+      "music",
+      "drawing",
+      "creative"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-20",
+    "last_http_code": 202,
+    "last_latency_ms": 110,
+    "last_checked_at": "2026-05-20T13:00:00Z"
+  },
+  {
+    "id": "bouncy-balls",
+    "title": "Bouncy Balls",
+    "url": "https://bouncyballs.org/",
+    "description": "Watch colorful balls bounce in response to noise or movement, a classroom tool that also works as a quick visual toy.",
+    "category": "Visual Sound Toy",
+    "language": "en",
+    "tags": [
+      "balls",
+      "sound",
+      "visual"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-20",
+    "last_http_code": 200,
+    "last_latency_ms": 458,
+    "last_checked_at": "2026-05-20T13:00:00Z"
   }
 ]
