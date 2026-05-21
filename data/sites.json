@@ -1564,5 +1564,100 @@
     "last_http_code": 200,
     "last_latency_ms": 458,
     "last_checked_at": "2026-05-20T13:00:00Z"
+  },
+  {
+    "id": "vectorpark",
+    "title": "Vectorpark",
+    "url": "https://www.vectorpark.com/",
+    "description": "A gallery of strange interactive browser sketches, tiny games, and surreal web toys by Patrick Smith.",
+    "category": "Interactive Art",
+    "language": "en",
+    "tags": [
+      "art",
+      "interactive",
+      "weird"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-21",
+    "last_http_code": 200,
+    "last_latency_ms": 258,
+    "last_checked_at": "2026-05-21T05:03:11Z"
+  },
+  {
+    "id": "checkboxes-xyz",
+    "title": "Checkboxes",
+    "url": "https://www.checkboxes.xyz/",
+    "description": "A grid of checkboxes that turns ordinary form controls into a surprisingly satisfying browser toy.",
+    "category": "Oddly Satisfying",
+    "language": "en",
+    "tags": [
+      "checkbox",
+      "satisfying",
+      "minimal"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-21",
+    "last_http_code": 200,
+    "last_latency_ms": 226,
+    "last_checked_at": "2026-05-21T05:03:11Z"
+  },
+  {
+    "id": "maze-toys",
+    "title": "Maze Toys",
+    "url": "https://maze.toys/",
+    "description": "A tiny collection of browser mazes and toy-like puzzles for a quick low-stakes distraction.",
+    "category": "Tiny Game",
+    "language": "en",
+    "tags": [
+      "maze",
+      "game",
+      "toy"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-21",
+    "last_http_code": 200,
+    "last_latency_ms": 135,
+    "last_checked_at": "2026-05-21T05:03:11Z"
+  },
+  {
+    "id": "tonematrix",
+    "title": "ToneMatrix",
+    "url": "https://tonematrix.audiotool.com/",
+    "description": "Click squares on a minimalist grid to create a looping melody in seconds.",
+    "category": "Music Toy",
+    "language": "en",
+    "tags": [
+      "music",
+      "sound",
+      "grid"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-21",
+    "last_http_code": 200,
+    "last_latency_ms": 444,
+    "last_checked_at": "2026-05-21T05:03:11Z"
+  },
+  {
+    "id": "blob-opera",
+    "title": "Blob Opera",
+    "url": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw",
+    "description": "A charming Google Arts & Culture experiment where singing blobs let anyone compose a tiny opera in the browser.",
+    "category": "Music Toy",
+    "language": "en",
+    "tags": [
+      "music",
+      "google",
+      "opera"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-21",
+    "last_http_code": 200,
+    "last_latency_ms": 98,
+    "last_checked_at": "2026-05-21T05:03:11Z"
   }
 ]
