@@ -7,16 +7,15 @@ function aliveSites(sites){const good=sites.filter(s=>s.status!=='dead');return 
 function randomItem(items){return items[Math.floor(Math.random()*items.length)]}
 function isMobileLike(){return /Android|iPhone|iPad|iPod|Mobile|MicroMessenger|QQ\//i.test(navigator.userAgent||'')}
 function openExternal(url){
-  if(isMobileLike()){
-    toast('Opening…');
-    window.location.href=url;
+  // Keep UselessCN itself open. Some browsers were both opening a new tab
+  // and navigating this page when we used same-tab fallback logic.
+  const w=window.open(url,'_blank','noopener,noreferrer');
+  if(w){
+    try{w.opener=null}catch(e){}
+    toast('Opened in a new tab.');
     return;
   }
-  const w=window.open(url,'_blank','noopener,noreferrer');
-  if(!w){
-    toast('Opening in this tab…');
-    window.location.href=url;
-  }
+  toast('Popup blocked. Please allow popups for this site and try again.');
 }
 function toast(msg){let el=document.querySelector('.toast');if(!el){el=document.createElement('div');el.className='toast';document.body.appendChild(el)}el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2200)}
 function statusLabel(status){return status==='alive'?'Live':status==='dead'?'Needs review':status==='blocked'?'Bot-blocked':'Check'}
@@ -29,13 +28,15 @@ async function initHome(){
   const daily=document.querySelector('#daily');
   if(daily&&pick)daily.innerHTML=`Today's pick: <strong>${pick.title}</strong>`;
   const go=document.querySelector('#go');
-  go.addEventListener('click',()=>{
+  go.addEventListener('click',e=>{
+    e.preventDefault();
+    e.stopPropagation();
     const s=randomItem(aliveSites(sites));
     go.textContent='OPENING…';
     openExternal(s.url);
     setTimeout(()=>{go.textContent='PLEASE'},650);
   });
-  document.querySelector('#dailyGo')?.addEventListener('click',e=>{e.preventDefault();if(pick)openExternal(pick.url)})
+  document.querySelector('#dailyGo')?.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();if(pick)openExternal(pick.url)})
 }
 async function initSites(){
   const sites=await loadJSON('data/sites.json');
