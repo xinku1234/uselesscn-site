@@ -1659,5 +1659,81 @@
     "last_http_code": 200,
     "last_latency_ms": 98,
     "last_checked_at": "2026-05-21T05:03:11Z"
+  },
+  {
+    "id": "hackertyper",
+    "title": "Hacker Typer",
+    "url": "https://hackertyper.net/",
+    "description": "Mash your keyboard and instantly look like a movie hacker writing mysterious code.",
+    "category": "Keyboard Toy",
+    "language": "en",
+    "tags": [
+      "keyboard",
+      "pretend",
+      "fun"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-22",
+    "last_http_code": 200,
+    "last_latency_ms": 88,
+    "last_checked_at": "2026-05-22T05:01:26Z"
+  },
+  {
+    "id": "clicking-toys",
+    "title": "Clicking Toys",
+    "url": "https://clicking.toys/",
+    "description": "A polished pile of tiny click-first browser toys, buttons, widgets, and playful micro-interactions.",
+    "category": "One-Click Toy Collection",
+    "language": "en",
+    "tags": [
+      "clicking",
+      "toy",
+      "microinteraction"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-22",
+    "last_http_code": 200,
+    "last_latency_ms": 232,
+    "last_checked_at": "2026-05-22T05:01:26Z"
+  },
+  {
+    "id": "mrdoob-ball-pool",
+    "title": "Ball Pool by Mr.doob",
+    "url": "https://mrdoob.com/projects/chromeexperiments/ball-pool/",
+    "description": "Drag and fling colorful browser balls around a simple physics sandbox for a quick satisfying break.",
+    "category": "Physics Toy",
+    "language": "en",
+    "tags": [
+      "physics",
+      "balls",
+      "sandbox"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-22",
+    "last_http_code": 200,
+    "last_latency_ms": 31,
+    "last_checked_at": "2026-05-22T05:01:26Z"
+  },
+  {
+    "id": "lines-chromeexperiment",
+    "title": "Lines Chrome Experiment",
+    "url": "https://lines.chromeexperiments.com/",
+    "description": "Explore an interactive collection of line-based films, patterns, and playful visual experiments.",
+    "category": "Visual Exploration",
+    "language": "en",
+    "tags": [
+      "lines",
+      "visual",
+      "experiment"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-22",
+    "last_http_code": 200,
+    "last_latency_ms": 110,
+    "last_checked_at": "2026-05-22T05:01:26Z"
   }
 ]
