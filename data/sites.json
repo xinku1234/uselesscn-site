@@ -1830,5 +1830,100 @@
     "last_http_code": 200,
     "last_latency_ms": 288,
     "last_checked_at": "2026-05-23T05:03:58Z"
+  },
+  {
+    "id": "touch-pianist",
+    "title": "Touch Pianist",
+    "url": "https://touchpianist.com/",
+    "description": "Tap any keys to feel like you are performing classical piano without actually learning the piece.",
+    "category": "Music Toy",
+    "language": "en",
+    "tags": [
+      "piano",
+      "music",
+      "keyboard"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-24",
+    "last_http_code": 200,
+    "last_latency_ms": 124,
+    "last_checked_at": "2026-05-24T05:01:54Z"
+  },
+  {
+    "id": "chrismckenzie-dotcom",
+    "title": "Chris McKenzie Dotcom",
+    "url": "https://chrismckenzie.com/",
+    "description": "A surreal interactive personal-site toy where moving your cursor becomes the whole strange point.",
+    "category": "Weird Interactive",
+    "language": "en",
+    "tags": [
+      "weird",
+      "cursor",
+      "interactive"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-24",
+    "last_http_code": 200,
+    "last_latency_ms": 274,
+    "last_checked_at": "2026-05-24T05:01:54Z"
+  },
+  {
+    "id": "bury-me-with-my-money",
+    "title": "Bury Me With My Money",
+    "url": "https://burymewithmymoney.com/",
+    "description": "A tiny looping joke page with a falling figure, a quote, and no productive purpose whatsoever.",
+    "category": "One-Joke Site",
+    "language": "en",
+    "tags": [
+      "classic",
+      "loop",
+      "joke"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-24",
+    "last_http_code": 200,
+    "last_latency_ms": 137,
+    "last_checked_at": "2026-05-24T05:01:54Z"
+  },
+  {
+    "id": "much-better-than-this",
+    "title": "Much Better Than This",
+    "url": "https://www.muchbetterthanthis.com/",
+    "description": "A simple animated loop that is somehow funny, soothing, and completely unnecessary at the same time.",
+    "category": "Silly Loop",
+    "language": "en",
+    "tags": [
+      "loop",
+      "funny",
+      "classic"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-24",
+    "last_http_code": 200,
+    "last_latency_ms": 309,
+    "last_checked_at": "2026-05-24T05:01:54Z"
+  },
+  {
+    "id": "is-my-computer-on-fire",
+    "title": "Is My Computer On Fire?",
+    "url": "https://www.ismycomputeronfire.com/",
+    "description": "A one-question website that answers a very specific worry with the confidence only a pointless page can have.",
+    "category": "One-Joke Site",
+    "language": "en",
+    "tags": [
+      "one-purpose",
+      "joke",
+      "question"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-24",
+    "last_http_code": 200,
+    "last_latency_ms": 177,
+    "last_checked_at": "2026-05-24T05:01:54Z"
   }
 ]
