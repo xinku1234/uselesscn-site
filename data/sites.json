@@ -1925,5 +1925,100 @@
     "last_http_code": 200,
     "last_latency_ms": 177,
     "last_checked_at": "2026-05-24T05:01:54Z"
+  },
+  {
+    "id": "clickclickclick",
+    "title": "ClickClickClick",
+    "url": "https://clickclickclick.click/",
+    "description": "A nosy browser toy that comments on every click, pause, and tiny action as if the page is watching you.",
+    "category": "Weird Interactive",
+    "language": "en",
+    "tags": [
+      "clicking",
+      "weird",
+      "interactive"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 367,
+    "last_checked_at": "2026-05-25T05:04:24Z",
+    "added_at": "2026-05-25"
+  },
+  {
+    "id": "koalastothemax",
+    "title": "Koalas to the Max",
+    "url": "https://koalastothemax.com/",
+    "description": "Move your cursor through shrinking circles until a hidden koala image slowly appears from the dots.",
+    "category": "Reveal Toy",
+    "language": "en",
+    "tags": [
+      "cursor",
+      "reveal",
+      "classic"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 179,
+    "last_checked_at": "2026-05-25T05:04:24Z",
+    "added_at": "2026-05-25"
+  },
+  {
+    "id": "jacksonpollock-org",
+    "title": "JacksonPollock.org",
+    "url": "https://jacksonpollock.org/",
+    "description": "Splash colorful paint across the screen with only your cursor and make instant messy browser art.",
+    "category": "Drawing Toy",
+    "language": "en",
+    "tags": [
+      "drawing",
+      "art",
+      "cursor"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 82,
+    "last_checked_at": "2026-05-25T05:04:24Z",
+    "added_at": "2026-05-25"
+  },
+  {
+    "id": "endless-horse",
+    "title": "Endless Horse",
+    "url": "http://endless.horse/",
+    "description": "Scroll down an absurdly long ASCII horse whose legs keep going much farther than they should.",
+    "category": "One-Joke Site",
+    "language": "en",
+    "tags": [
+      "scroll",
+      "joke",
+      "classic"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 156,
+    "last_checked_at": "2026-05-25T05:04:24Z",
+    "added_at": "2026-05-25"
+  },
+  {
+    "id": "sometimes-red-sometimes-blue",
+    "title": "Sometimes Red Sometimes Blue",
+    "url": "https://www.sometimesredsometimesblue.com/",
+    "description": "A minimal page that flips between red and blue, turning a tiny color change into the entire joke.",
+    "category": "Minimal Toy",
+    "language": "en",
+    "tags": [
+      "color",
+      "minimal",
+      "one-purpose"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 59,
+    "last_checked_at": "2026-05-25T05:04:24Z",
+    "added_at": "2026-05-25"
   }
 ]
