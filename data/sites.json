@@ -2020,5 +2020,81 @@
     "last_latency_ms": 59,
     "last_checked_at": "2026-05-25T05:04:24Z",
     "added_at": "2026-05-25"
+  },
+  {
+    "id": "typatone",
+    "title": "Typatone",
+    "url": "https://typatone.com/",
+    "description": "Type words and hear them turn into a gentle melody with matching visual notes, a calm keyboard-powered sound toy.",
+    "category": "Audio Toy",
+    "language": "en",
+    "tags": [
+      "music",
+      "typing",
+      "ambient"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-26",
+    "last_http_code": 200,
+    "last_latency_ms": 73,
+    "last_checked_at": "2026-05-26T05:02:02Z"
+  },
+  {
+    "id": "weird-or-confusing",
+    "title": "Weird or Confusing",
+    "url": "https://weirdorconfusing.com/",
+    "description": "Press one button and get sent to a bizarre shopping-page oddity, perfect for a quick absurd internet detour.",
+    "category": "Random Weird",
+    "language": "en",
+    "tags": [
+      "random",
+      "weird",
+      "shopping-joke"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-26",
+    "last_http_code": 200,
+    "last_latency_ms": 23,
+    "last_checked_at": "2026-05-26T05:02:02Z"
+  },
+  {
+    "id": "zoomquilt-2",
+    "title": "Zoomquilt 2",
+    "url": "https://zoomquilt2.com/",
+    "description": "An endless zooming illustrated world that feels hypnotic, strange, and oddly satisfying in the browser.",
+    "category": "Visual Loop",
+    "language": "en",
+    "tags": [
+      "visual",
+      "loop",
+      "satisfying"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-26",
+    "last_http_code": 200,
+    "last_latency_ms": 50,
+    "last_checked_at": "2026-05-26T05:02:02Z"
+  },
+  {
+    "id": "google-gravity",
+    "title": "Google Gravity",
+    "url": "https://mrdoob.com/projects/chromeexperiments/google-gravity/",
+    "description": "A classic browser experiment where a familiar search page collapses into playful physics chaos.",
+    "category": "Browser Experiment",
+    "language": "en",
+    "tags": [
+      "physics",
+      "classic",
+      "interactive"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-05-26",
+    "last_http_code": 200,
+    "last_latency_ms": 16,
+    "last_checked_at": "2026-05-26T05:02:02Z"
   }
 ]
