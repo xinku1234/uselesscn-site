@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-26T05:02:02Z",
-  "total_sites": 110,
-  "alive_sites": 107,
+  "updated_at": "2026-05-28T05:04:43Z",
+  "total_sites": 113,
+  "alive_sites": 109,
   "blocked_sites": 2,
-  "dead_sites": 1,
-  "today_pick": "patatap",
-  "today_pick_title": "Patatap"
+  "dead_sites": 2,
+  "today_pick": "autodraw",
+  "today_pick_title": "AutoDraw"
 }
