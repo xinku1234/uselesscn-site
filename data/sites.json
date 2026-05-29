@@ -2154,5 +2154,100 @@
     "last_http_code": 200,
     "last_latency_ms": 44,
     "last_checked_at": "2026-05-28T05:04:43Z"
+  },
+  {
+    "id": "sliding-toys",
+    "title": "Sliding Toys",
+    "url": "https://sliding.toys/",
+    "description": "Slide tiny panels around the screen and enjoy a minimal puzzle-like toy with no setup or serious goal.",
+    "category": "Minimal Toy",
+    "language": "en",
+    "tags": [
+      "sliding",
+      "minimal",
+      "puzzle"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-29",
+    "last_http_code": 200,
+    "last_latency_ms": 349,
+    "last_checked_at": "2026-05-29T05:04:14Z"
+  },
+  {
+    "id": "end-city",
+    "title": "END CITY",
+    "url": "https://end.city/",
+    "description": "A surreal browser place to wander through abstract rooms, odd visuals, and dreamlike interactive fragments.",
+    "category": "Surreal Web Toy",
+    "language": "en",
+    "tags": [
+      "surreal",
+      "visual",
+      "exploration"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-29",
+    "last_http_code": 200,
+    "last_latency_ms": 124,
+    "last_checked_at": "2026-05-29T05:04:14Z"
+  },
+  {
+    "id": "trashloop",
+    "title": "Trash Loop",
+    "url": "https://www.trashloop.com/",
+    "description": "A hypnotic looping trash-can animation that turns a tiny visual joke into a strangely watchable page.",
+    "category": "Looping Joke",
+    "language": "en",
+    "tags": [
+      "loop",
+      "visual",
+      "silly"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-29",
+    "last_http_code": 200,
+    "last_latency_ms": 454,
+    "last_checked_at": "2026-05-29T05:04:14Z"
+  },
+  {
+    "id": "nulling-the-void",
+    "title": "Nulling the Void",
+    "url": "https://www.nullingthevoid.com/",
+    "description": "A one-purpose page for staring into a digital void, useful when the best boredom break is almost nothing.",
+    "category": "One-Purpose Website",
+    "language": "en",
+    "tags": [
+      "void",
+      "minimal",
+      "one-purpose"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-29",
+    "last_http_code": 200,
+    "last_latency_ms": 60,
+    "last_checked_at": "2026-05-29T05:04:14Z"
+  },
+  {
+    "id": "yes-no-if",
+    "title": "Yes No If",
+    "url": "https://www.yesnoif.com/",
+    "description": "A strange yes-or-no decision toy that gives quick absurd answers when you want the internet to choose for you.",
+    "category": "Decision Toy",
+    "language": "en",
+    "tags": [
+      "decision",
+      "random",
+      "silly"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-05-29",
+    "last_http_code": 200,
+    "last_latency_ms": 448,
+    "last_checked_at": "2026-05-29T05:04:14Z"
   }
 ]
