@@ -2249,5 +2249,100 @@
     "last_http_code": 200,
     "last_latency_ms": 448,
     "last_checked_at": "2026-05-29T05:04:14Z"
+  },
+  {
+    "id": "one-square-minesweeper",
+    "title": "One Square Minesweeper",
+    "url": "https://onesquareminesweeper.com/",
+    "description": "A tiny one-square twist on Minesweeper that turns a familiar puzzle into a quick absurd browser game.",
+    "category": "Tiny Game",
+    "language": "en",
+    "tags": [
+      "minesweeper",
+      "tiny-game",
+      "puzzle"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 37,
+    "last_checked_at": "2026-05-30T05:03:10Z",
+    "added_at": "2026-05-30"
+  },
+  {
+    "id": "crazy-card-trick",
+    "title": "Crazy Card Trick",
+    "url": "https://www.crazycardtrick.com/",
+    "description": "A classic quick card illusion that feels like a tiny magic trick hiding inside an old-school web page.",
+    "category": "Quick Illusion",
+    "language": "en",
+    "tags": [
+      "card-trick",
+      "illusion",
+      "classic"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 357,
+    "last_checked_at": "2026-05-30T05:03:10Z",
+    "added_at": "2026-05-30"
+  },
+  {
+    "id": "doughnut-kitten",
+    "title": "Doughnut Kitten",
+    "url": "https://doughnutkitten.com/",
+    "description": "A delightfully silly doughnut-and-kitten page for a short cute internet detour with no setup at all.",
+    "category": "Cute Nonsense",
+    "language": "en",
+    "tags": [
+      "cat",
+      "cute",
+      "silly"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 70,
+    "last_checked_at": "2026-05-30T05:03:10Z",
+    "added_at": "2026-05-30"
+  },
+  {
+    "id": "bouncing-dvd-logo",
+    "title": "Bouncing DVD Logo",
+    "url": "https://bouncingdvdlogo.com/",
+    "description": "Watch the nostalgic DVD logo bounce around the browser and wait for the corner hit you probably came for.",
+    "category": "Oddly Satisfying",
+    "language": "en",
+    "tags": [
+      "dvd",
+      "loop",
+      "satisfying"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 267,
+    "last_checked_at": "2026-05-30T05:03:10Z",
+    "added_at": "2026-05-30"
+  },
+  {
+    "id": "semi-conductor",
+    "title": "Semi-Conductor",
+    "url": "https://semiconductor.withgoogle.com/",
+    "description": "A Google experiment where your webcam gestures conduct an AI-powered orchestra in the browser.",
+    "category": "Music Experiment",
+    "language": "en",
+    "tags": [
+      "music",
+      "google",
+      "interactive"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 300,
+    "last_checked_at": "2026-05-30T05:03:10Z",
+    "added_at": "2026-05-30"
   }
 ]
