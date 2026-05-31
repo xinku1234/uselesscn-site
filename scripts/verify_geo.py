@@ -51,6 +51,24 @@ for page in ["weird-browser-toys.html", "websites-to-waste-time.html", "random-f
     page_text = (ROOT / page).read_text(encoding="utf-8")
     require("application/ld+json" in page_text, f"{page} has structured data")
     require("https://uselesscn.cyou/" + page in sitemap, f"sitemap includes {page}")
+
+prank_page_path = ROOT / "funny-websites-to-prank-friends.html"
+require(prank_page_path.exists(), "funny prank friends SEO page exists")
+if prank_page_path.exists():
+    prank_page = prank_page_path.read_text(encoding="utf-8")
+    for phrase in [
+        "Funny Websites to Prank Friends",
+        "safe silly websites to send friends",
+        "Quick safety checklist",
+        "FAQPage",
+        "Sponsor slot",
+        "Random Generator",
+    ]:
+        require(phrase in prank_page, f"funny prank friends page contains: {phrase}")
+    require("https://uselesscn.cyou/funny-websites-to-prank-friends.html" in sitemap, "sitemap includes funny prank friends page")
+    require("Funny websites to prank friends" in llms_text, "llms.txt includes funny prank friends page")
+    index_text = (ROOT / "index.html").read_text(encoding="utf-8")
+    require("funny-websites-to-prank-friends.html" in index_text, "homepage links funny prank friends page")
 robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
 require("ai-input=yes" in robots and "ai-train=no" in robots, "robots declares AI search input allowed and AI training reserved")
 
