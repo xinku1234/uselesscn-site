@@ -15,8 +15,8 @@
     "featured": true,
     "added_at": "2026-05-13",
     "last_http_code": 200,
-    "last_latency_ms": 75,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 80,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "cat-bounce",
@@ -34,8 +34,8 @@
     "featured": true,
     "added_at": "2026-05-13",
     "last_http_code": 200,
-    "last_latency_ms": 31,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 123,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "staggering-beauty",
@@ -54,7 +54,7 @@
     "added_at": "2026-05-13",
     "last_http_code": 0,
     "last_latency_ms": 163,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "last_error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)"
   },
   {
@@ -73,8 +73,8 @@
     "featured": true,
     "added_at": "2026-05-13",
     "last_http_code": 200,
-    "last_latency_ms": 31,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 113,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "long-doge-challenge",
@@ -92,8 +92,8 @@
     "featured": false,
     "added_at": "2026-05-13",
     "last_http_code": 200,
-    "last_latency_ms": 17,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 72,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "the-zen-zone",
@@ -111,8 +111,8 @@
     "featured": true,
     "added_at": "2026-05-13",
     "last_http_code": 200,
-    "last_latency_ms": 96,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 64,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "checkbox-race",
@@ -130,8 +130,8 @@
     "featured": false,
     "added_at": "2026-05-13",
     "last_http_code": 200,
-    "last_latency_ms": 23,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 63,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "scream-into-void",
@@ -149,8 +149,8 @@
     "featured": false,
     "added_at": "2026-05-13",
     "last_http_code": 200,
-    "last_latency_ms": 610,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 778,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "neal-fun",
@@ -168,8 +168,8 @@
     "featured": true,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 58,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 65,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "quick-draw-google",
@@ -187,8 +187,8 @@
     "featured": true,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 58,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 84,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "window-swap",
@@ -206,8 +206,8 @@
     "featured": true,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 42,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 48,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "radio-garden",
@@ -225,8 +225,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 37,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 57,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "always-judge-book-cover",
@@ -244,8 +244,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 119,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 156,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "mondrian-and-me",
@@ -263,8 +263,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 178,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 83,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "zoomquilt",
@@ -282,8 +282,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 57,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 52,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "koalas-to-the-max",
@@ -301,8 +301,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 285,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 248,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "rrrgggbbb",
@@ -320,8 +320,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 383,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 387,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "hacker-typer",
@@ -339,8 +339,8 @@
     "featured": true,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 26,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 73,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "bees-bees-bees",
@@ -358,8 +358,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 134,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 90,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "paper-toilet",
@@ -377,8 +377,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 233,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 232,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "binary-piano",
@@ -396,8 +396,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 157,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 162,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "falling-falling",
@@ -415,8 +415,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 306,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 248,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "ducks-are-the-best",
@@ -434,8 +434,8 @@
     "featured": true,
     "added_at": "2026-05-14",
     "last_http_code": 404,
-    "last_latency_ms": 283,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_latency_ms": 280,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "last_error": "HTTP Error 404: Not Found"
   },
   {
@@ -454,8 +454,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 22,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 26,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "random-colour",
@@ -474,7 +474,7 @@
     "added_at": "2026-05-14",
     "last_http_code": 200,
     "last_latency_ms": 33,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "drawing-garden",
@@ -492,8 +492,8 @@
     "featured": true,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 38,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 51,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "2048",
@@ -511,8 +511,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 68,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 82,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "flexbox-froggy",
@@ -530,8 +530,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 49,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 100,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "server-survival",
@@ -549,8 +549,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 44,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 54,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "cut-bread",
@@ -568,8 +568,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 25,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 89,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "webgl-fluid-simulation",
@@ -587,8 +587,8 @@
     "featured": true,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 50,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 207,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "css-doodle",
@@ -606,8 +606,8 @@
     "featured": false,
     "added_at": "2026-05-14",
     "last_http_code": 200,
-    "last_latency_ms": 47,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 42,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "tower-game",
@@ -625,8 +625,8 @@
     "featured": false,
     "added_at": "2026-05-15",
     "last_http_code": 200,
-    "last_latency_ms": 29,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 32,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "browser-url-snake",
@@ -644,8 +644,8 @@
     "featured": false,
     "added_at": "2026-05-15",
     "last_http_code": 200,
-    "last_latency_ms": 158,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 196,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "polygon-shredder",
@@ -663,8 +663,8 @@
     "featured": true,
     "added_at": "2026-05-15",
     "last_http_code": 200,
-    "last_latency_ms": 53,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 51,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "patatap",
@@ -682,8 +682,8 @@
     "featured": true,
     "added_at": "2026-05-15",
     "last_http_code": 200,
-    "last_latency_ms": 69,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 67,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "sandspiel",
@@ -701,8 +701,8 @@
     "featured": true,
     "added_at": "2026-05-15",
     "last_http_code": 200,
-    "last_latency_ms": 22,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 23,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "bongo-cat",
@@ -721,8 +721,8 @@
     "featured": true,
     "added_at": "2026-05-16",
     "last_http_code": 200,
-    "last_latency_ms": 162,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 41,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "omfgdogs",
@@ -741,8 +741,8 @@
     "featured": false,
     "added_at": "2026-05-16",
     "last_http_code": 200,
-    "last_latency_ms": 29,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 46,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "mapcrunch",
@@ -761,8 +761,8 @@
     "featured": true,
     "added_at": "2026-05-16",
     "last_http_code": 200,
-    "last_latency_ms": 424,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 496,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "windows93",
@@ -781,8 +781,8 @@
     "featured": true,
     "added_at": "2026-05-16",
     "last_http_code": 200,
-    "last_latency_ms": 282,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 284,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "the-nicest-place",
@@ -801,8 +801,8 @@
     "featured": false,
     "added_at": "2026-05-16",
     "last_http_code": 200,
-    "last_latency_ms": 49,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 50,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "thisissand",
@@ -820,8 +820,8 @@
     "featured": false,
     "added_at": "2026-05-17",
     "last_http_code": 200,
-    "last_latency_ms": 172,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 109,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "a-soft-murmur",
@@ -839,8 +839,8 @@
     "featured": false,
     "added_at": "2026-05-17",
     "last_http_code": 200,
-    "last_latency_ms": 63,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 69,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "paper-planes-world",
@@ -858,8 +858,8 @@
     "featured": false,
     "added_at": "2026-05-17",
     "last_http_code": 200,
-    "last_latency_ms": 123,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 67,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "emoji-kitchen",
@@ -877,8 +877,8 @@
     "featured": false,
     "added_at": "2026-05-17",
     "last_http_code": 200,
-    "last_latency_ms": 29,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 28,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "ztype",
@@ -896,8 +896,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 428,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 436,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "little-alchemy-2",
@@ -915,8 +915,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 52,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 34,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "this-person-does-not-exist",
@@ -934,8 +934,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 590,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 492,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "internet-live-stats",
@@ -953,8 +953,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 119,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 143,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "stars-chromeexperiments",
@@ -972,8 +972,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 38,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 71,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "quick-draw-dataset",
@@ -991,8 +991,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 55,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 54,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "experiments-with-google",
@@ -1010,8 +1010,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 229,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 218,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "make-everything-ok",
@@ -1029,8 +1029,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 545,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 534,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "neal-infinite-craft",
@@ -1048,8 +1048,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 403,
-    "last_latency_ms": 25,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_latency_ms": 23,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "last_error": "blocked or rate-limited"
   },
   {
@@ -1068,8 +1068,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 403,
-    "last_latency_ms": 22,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_latency_ms": 40,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "last_error": "blocked or rate-limited"
   },
   {
@@ -1088,8 +1088,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 204,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 231,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "chrome-music-lab",
@@ -1107,8 +1107,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 71,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 101,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "sandboxels",
@@ -1126,8 +1126,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 32,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 44,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "close-hue",
@@ -1145,8 +1145,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 215,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 225,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "kinda-hard-golf",
@@ -1164,8 +1164,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 78,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 90,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "just-hit-the-button",
@@ -1183,8 +1183,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 938,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 791,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "thats-the-finger",
@@ -1202,8 +1202,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 43,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 75,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "paint-toys",
@@ -1221,8 +1221,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 149,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 74,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "autodraw",
@@ -1240,8 +1240,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 159,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 74,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "pug-in-a-rug",
@@ -1259,8 +1259,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 47,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 45,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "the-useless-web",
@@ -1278,8 +1278,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 22,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 17,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "cache-monet",
@@ -1297,8 +1297,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 278,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 233,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "is-it-christmas",
@@ -1316,8 +1316,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 73,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 115,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "rainy-mood",
@@ -1335,8 +1335,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 176,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 152,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "sanger-dk",
@@ -1354,8 +1354,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 418,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 404,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "nyan-cat",
@@ -1373,8 +1373,8 @@
     "featured": false,
     "added_at": "2026-05-18",
     "last_http_code": 200,
-    "last_latency_ms": 95,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 90,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "neonflames",
@@ -1392,8 +1392,8 @@
     "featured": false,
     "added_at": "2026-05-19",
     "last_http_code": 200,
-    "last_latency_ms": 35,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 316,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "draw-a-stickman",
@@ -1411,8 +1411,8 @@
     "featured": false,
     "added_at": "2026-05-19",
     "last_http_code": 200,
-    "last_latency_ms": 63,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 64,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "corndog-on-corndog",
@@ -1430,8 +1430,8 @@
     "featured": false,
     "added_at": "2026-05-19",
     "last_http_code": 200,
-    "last_latency_ms": 51,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 49,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "passive-aggressive-passwords",
@@ -1449,8 +1449,8 @@
     "featured": false,
     "added_at": "2026-05-19",
     "last_http_code": 200,
-    "last_latency_ms": 70,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 50,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "smash-the-walls",
@@ -1468,8 +1468,8 @@
     "featured": false,
     "added_at": "2026-05-19",
     "last_http_code": 200,
-    "last_latency_ms": 21,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 48,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "orb-farm",
@@ -1487,8 +1487,8 @@
     "featured": false,
     "added_at": "2026-05-20",
     "last_http_code": 200,
-    "last_latency_ms": 68,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 52,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "jspaint",
@@ -1506,8 +1506,8 @@
     "featured": false,
     "added_at": "2026-05-20",
     "last_http_code": 200,
-    "last_latency_ms": 38,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 35,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "cross-divisions",
@@ -1525,8 +1525,8 @@
     "featured": false,
     "added_at": "2026-05-20",
     "last_http_code": 200,
-    "last_latency_ms": 233,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 222,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "chrome-music-lab-kandinsky",
@@ -1544,8 +1544,8 @@
     "featured": false,
     "added_at": "2026-05-20",
     "last_http_code": 202,
-    "last_latency_ms": 108,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 75,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "bouncy-balls",
@@ -1564,7 +1564,7 @@
     "added_at": "2026-05-20",
     "last_http_code": 200,
     "last_latency_ms": 451,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "vectorpark",
@@ -1582,8 +1582,8 @@
     "featured": false,
     "added_at": "2026-05-21",
     "last_http_code": 200,
-    "last_latency_ms": 221,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 219,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "checkboxes-xyz",
@@ -1601,8 +1601,8 @@
     "featured": false,
     "added_at": "2026-05-21",
     "last_http_code": 200,
-    "last_latency_ms": 41,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 44,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "maze-toys",
@@ -1621,7 +1621,7 @@
     "added_at": "2026-05-21",
     "last_http_code": 200,
     "last_latency_ms": 198,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "tonematrix",
@@ -1639,8 +1639,8 @@
     "featured": false,
     "added_at": "2026-05-21",
     "last_http_code": 200,
-    "last_latency_ms": 121,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 124,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "blob-opera",
@@ -1658,8 +1658,8 @@
     "featured": false,
     "added_at": "2026-05-21",
     "last_http_code": 200,
-    "last_latency_ms": 131,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 101,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "hackertyper",
@@ -1677,8 +1677,8 @@
     "featured": false,
     "added_at": "2026-05-22",
     "last_http_code": 200,
-    "last_latency_ms": 15,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 85,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "clicking-toys",
@@ -1696,8 +1696,8 @@
     "featured": false,
     "added_at": "2026-05-22",
     "last_http_code": 200,
-    "last_latency_ms": 524,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 183,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "mrdoob-ball-pool",
@@ -1715,8 +1715,8 @@
     "featured": false,
     "added_at": "2026-05-22",
     "last_http_code": 200,
-    "last_latency_ms": 41,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 38,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "lines-chromeexperiment",
@@ -1734,8 +1734,8 @@
     "featured": false,
     "added_at": "2026-05-22",
     "last_http_code": 200,
-    "last_latency_ms": 68,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 61,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "checkbox-toys",
@@ -1753,8 +1753,8 @@
     "status": "alive",
     "added_at": "2026-05-23",
     "last_http_code": 200,
-    "last_latency_ms": 78,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 48,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "line-rider",
@@ -1772,8 +1772,8 @@
     "status": "alive",
     "added_at": "2026-05-23",
     "last_http_code": 200,
-    "last_latency_ms": 30,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 39,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "camerons-world",
@@ -1792,7 +1792,7 @@
     "added_at": "2026-05-23",
     "last_http_code": 200,
     "last_latency_ms": 33,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "mikutap",
@@ -1810,8 +1810,8 @@
     "status": "alive",
     "added_at": "2026-05-23",
     "last_http_code": 200,
-    "last_latency_ms": 727,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 36,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "the-revolving-internet",
@@ -1829,8 +1829,8 @@
     "status": "alive",
     "added_at": "2026-05-23",
     "last_http_code": 200,
-    "last_latency_ms": 377,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 384,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "touch-pianist",
@@ -1848,8 +1848,8 @@
     "status": "alive",
     "added_at": "2026-05-24",
     "last_http_code": 200,
-    "last_latency_ms": 105,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 92,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "chrismckenzie-dotcom",
@@ -1867,8 +1867,8 @@
     "status": "alive",
     "added_at": "2026-05-24",
     "last_http_code": 200,
-    "last_latency_ms": 280,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 273,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "bury-me-with-my-money",
@@ -1886,8 +1886,8 @@
     "status": "alive",
     "added_at": "2026-05-24",
     "last_http_code": 200,
-    "last_latency_ms": 71,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 146,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "much-better-than-this",
@@ -1905,8 +1905,8 @@
     "status": "alive",
     "added_at": "2026-05-24",
     "last_http_code": 200,
-    "last_latency_ms": 314,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 308,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "is-my-computer-on-fire",
@@ -1924,8 +1924,8 @@
     "status": "alive",
     "added_at": "2026-05-24",
     "last_http_code": 200,
-    "last_latency_ms": 28,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 189,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "clickclickclick",
@@ -1942,8 +1942,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 397,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_latency_ms": 361,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-25"
   },
   {
@@ -1961,8 +1961,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 260,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_latency_ms": 207,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-25"
   },
   {
@@ -1980,8 +1980,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 131,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_latency_ms": 108,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-25"
   },
   {
@@ -1999,8 +1999,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 159,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_latency_ms": 163,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-25"
   },
   {
@@ -2018,8 +2018,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 132,
-    "last_checked_at": "2026-05-28T05:04:43Z",
+    "last_latency_ms": 77,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-25"
   },
   {
@@ -2038,8 +2038,8 @@
     "featured": false,
     "added_at": "2026-05-26",
     "last_http_code": 200,
-    "last_latency_ms": 79,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 149,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "weird-or-confusing",
@@ -2057,8 +2057,8 @@
     "featured": false,
     "added_at": "2026-05-26",
     "last_http_code": 200,
-    "last_latency_ms": 69,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 142,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "zoomquilt-2",
@@ -2076,8 +2076,8 @@
     "featured": false,
     "added_at": "2026-05-26",
     "last_http_code": 200,
-    "last_latency_ms": 77,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 52,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "google-gravity",
@@ -2095,8 +2095,8 @@
     "featured": false,
     "added_at": "2026-05-26",
     "last_http_code": 200,
-    "last_latency_ms": 38,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 42,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "hooooooooo",
@@ -2114,8 +2114,8 @@
     "featured": false,
     "added_at": "2026-05-28",
     "last_http_code": 200,
-    "last_latency_ms": 22,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 34,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "sanger",
@@ -2133,8 +2133,8 @@
     "featured": false,
     "added_at": "2026-05-28",
     "last_http_code": 200,
-    "last_latency_ms": 526,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 405,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "checkboxland",
@@ -2152,8 +2152,8 @@
     "featured": false,
     "added_at": "2026-05-28",
     "last_http_code": 200,
-    "last_latency_ms": 44,
-    "last_checked_at": "2026-05-28T05:04:43Z"
+    "last_latency_ms": 81,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "sliding-toys",
@@ -2171,8 +2171,8 @@
     "status": "alive",
     "added_at": "2026-05-29",
     "last_http_code": 200,
-    "last_latency_ms": 349,
-    "last_checked_at": "2026-05-29T05:04:14Z"
+    "last_latency_ms": 51,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "end-city",
@@ -2190,8 +2190,8 @@
     "status": "alive",
     "added_at": "2026-05-29",
     "last_http_code": 200,
-    "last_latency_ms": 124,
-    "last_checked_at": "2026-05-29T05:04:14Z"
+    "last_latency_ms": 895,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "trashloop",
@@ -2209,8 +2209,8 @@
     "status": "alive",
     "added_at": "2026-05-29",
     "last_http_code": 200,
-    "last_latency_ms": 454,
-    "last_checked_at": "2026-05-29T05:04:14Z"
+    "last_latency_ms": 459,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "nulling-the-void",
@@ -2228,8 +2228,8 @@
     "status": "alive",
     "added_at": "2026-05-29",
     "last_http_code": 200,
-    "last_latency_ms": 60,
-    "last_checked_at": "2026-05-29T05:04:14Z"
+    "last_latency_ms": 117,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "yes-no-if",
@@ -2247,8 +2247,8 @@
     "status": "alive",
     "added_at": "2026-05-29",
     "last_http_code": 200,
-    "last_latency_ms": 448,
-    "last_checked_at": "2026-05-29T05:04:14Z"
+    "last_latency_ms": 451,
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "one-square-minesweeper",
@@ -2265,8 +2265,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 37,
-    "last_checked_at": "2026-05-30T05:03:10Z",
+    "last_latency_ms": 76,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-30"
   },
   {
@@ -2284,8 +2284,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 357,
-    "last_checked_at": "2026-05-30T05:03:10Z",
+    "last_latency_ms": 435,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-30"
   },
   {
@@ -2303,8 +2303,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 70,
-    "last_checked_at": "2026-05-30T05:03:10Z",
+    "last_latency_ms": 69,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-30"
   },
   {
@@ -2322,8 +2322,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 267,
-    "last_checked_at": "2026-05-30T05:03:10Z",
+    "last_latency_ms": 345,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-30"
   },
   {
@@ -2341,8 +2341,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 300,
-    "last_checked_at": "2026-05-30T05:03:10Z",
+    "last_latency_ms": 339,
+    "last_checked_at": "2026-05-31T07:33:49Z",
     "added_at": "2026-05-30"
   },
   {
@@ -2360,9 +2360,9 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 50,
+    "last_latency_ms": 18,
     "added_at": "2026-05-31",
-    "last_checked_at": "2026-05-31T05:03:37Z"
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "human-benchmark",
@@ -2379,9 +2379,9 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 42,
+    "last_latency_ms": 141,
     "added_at": "2026-05-31",
-    "last_checked_at": "2026-05-31T05:03:37Z"
+    "last_checked_at": "2026-05-31T07:33:49Z"
   },
   {
     "id": "qwop-foddy",
@@ -2398,8 +2398,8 @@
     "featured": false,
     "status": "alive",
     "last_http_code": 200,
-    "last_latency_ms": 88,
+    "last_latency_ms": 85,
     "added_at": "2026-05-31",
-    "last_checked_at": "2026-05-31T05:03:37Z"
+    "last_checked_at": "2026-05-31T07:33:49Z"
   }
 ]
