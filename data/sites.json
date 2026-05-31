@@ -2344,5 +2344,62 @@
     "last_latency_ms": 300,
     "last_checked_at": "2026-05-30T05:03:10Z",
     "added_at": "2026-05-30"
+  },
+  {
+    "id": "ffffidget",
+    "title": "FFFFidget",
+    "url": "https://ffffidget.com/",
+    "description": "Spin a tiny browser fidget toy and enjoy a few seconds of completely unnecessary motion.",
+    "category": "Fidget Toy",
+    "language": "en",
+    "tags": [
+      "fidget",
+      "visual",
+      "one-click"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 50,
+    "added_at": "2026-05-31",
+    "last_checked_at": "2026-05-31T05:03:37Z"
+  },
+  {
+    "id": "human-benchmark",
+    "title": "Human Benchmark",
+    "url": "https://www.humanbenchmark.com/",
+    "description": "Quick reaction, memory, aim, and typing tests that turn tiny human abilities into addictive browser challenges.",
+    "category": "Quick Challenge",
+    "language": "en",
+    "tags": [
+      "reaction",
+      "memory",
+      "game"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 42,
+    "added_at": "2026-05-31",
+    "last_checked_at": "2026-05-31T05:03:37Z"
+  },
+  {
+    "id": "qwop-foddy",
+    "title": "QWOP",
+    "url": "https://www.foddy.net/Athletics.html",
+    "description": "A deliberately awkward running game from Bennett Foddy where simple controls become the whole comedy.",
+    "category": "Awkward Browser Game",
+    "language": "en",
+    "tags": [
+      "game",
+      "awkward",
+      "classic"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 88,
+    "added_at": "2026-05-31",
+    "last_checked_at": "2026-05-31T05:03:37Z"
   }
 ]
