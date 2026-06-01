@@ -2401,5 +2401,62 @@
     "last_latency_ms": 85,
     "added_at": "2026-05-31",
     "last_checked_at": "2026-05-31T07:33:49Z"
+  },
+  {
+    "id": "slow-roads",
+    "title": "Slow Roads",
+    "url": "https://slowroads.io/",
+    "description": "A calm endless driving toy where you cruise generated roads, change the weather, and let the browser become a tiny road trip.",
+    "category": "Ambient Driving Toy",
+    "language": "en",
+    "tags": [
+      "driving",
+      "ambient",
+      "browser-toy"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 88,
+    "last_checked_at": "2026-06-01T05:01:32Z",
+    "added_at": "2026-06-01"
+  },
+  {
+    "id": "oimo-life",
+    "title": "Oimo Life",
+    "url": "https://oimo.io/works/life/",
+    "description": "A floating WebGL life-form experiment that turns simple motion into a quiet, hypnotic visual break.",
+    "category": "Ambient Visual Toy",
+    "language": "en",
+    "tags": [
+      "webgl",
+      "ambient",
+      "visual"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 842,
+    "last_checked_at": "2026-06-01T05:01:32Z",
+    "added_at": "2026-06-01"
+  },
+  {
+    "id": "google-gravity-mrdoob",
+    "title": "Google Gravity",
+    "url": "https://mrdoob.com/projects/chromeexperiments/google-gravity/",
+    "description": "A classic Mr.doob browser experiment where the Google homepage falls apart under gravity and invites pointless clicking.",
+    "category": "Classic Browser Experiment",
+    "language": "en",
+    "tags": [
+      "gravity",
+      "classic",
+      "interactive"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 47,
+    "last_checked_at": "2026-06-01T05:01:32Z",
+    "added_at": "2026-06-01"
   }
 ]

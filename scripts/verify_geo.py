@@ -69,6 +69,27 @@ if prank_page_path.exists():
     require("Funny websites to prank friends" in llms_text, "llms.txt includes funny prank friends page")
     index_text = (ROOT / "index.html").read_text(encoding="utf-8")
     require("funny-websites-to-prank-friends.html" in index_text, "homepage links funny prank friends page")
+
+ambient_page_path = ROOT / "ambient-visual-websites.html"
+require(ambient_page_path.exists(), "ambient visual SEO page exists")
+if ambient_page_path.exists():
+    ambient_page = ambient_page_path.read_text(encoding="utf-8")
+    for phrase in [
+        "Ambient Visual Websites for Calm Browser Breaks",
+        "Curated ambient visual examples",
+        "Slow Roads",
+        "Oimo Life",
+        "FAQPage",
+        "Random Generator",
+    ]:
+        require(phrase in ambient_page, f"ambient visual page contains: {phrase}")
+    require("https://uselesscn.cyou/ambient-visual-websites.html" in sitemap, "sitemap includes ambient visual page")
+    require("Ambient visual websites" in llms_text, "llms.txt includes ambient visual page")
+    index_text = (ROOT / "index.html").read_text(encoding="utf-8")
+    require("ambient-visual-websites.html" in index_text, "homepage links ambient visual page")
+
+for new_site_id in ["slow-roads", "oimo-life", "google-gravity-mrdoob"]:
+    require(any(s.get("id") == new_site_id for s in sites), f"site pool includes {new_site_id}")
 robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
 require("ai-input=yes" in robots and "ai-train=no" in robots, "robots declares AI search input allowed and AI training reserved")
 
