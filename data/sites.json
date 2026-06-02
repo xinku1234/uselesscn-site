@@ -2458,5 +2458,103 @@
     "last_latency_ms": 47,
     "last_checked_at": "2026-06-01T05:01:32Z",
     "added_at": "2026-06-01"
+  },
+  {
+    "id": "if-the-moon-were-only-1-pixel",
+    "title": "If the Moon Were Only 1 Pixel",
+    "url": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+    "description": "A side-scrolling scale model of the solar system that turns empty space into a strangely calming browser journey.",
+    "category": "Ambient Visual",
+    "language": "en",
+    "tags": [
+      "space",
+      "scale",
+      "scroll",
+      "educational"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 289,
+    "last_checked_at": "2026-06-02T05:03:40Z",
+    "added_at": "2026-06-02"
+  },
+  {
+    "id": "earth-fm",
+    "title": "Earth.fm",
+    "url": "https://earth.fm/",
+    "description": "Listen to natural soundscapes from around the world when you want a quiet ambient break instead of another noisy feed.",
+    "category": "Ambient Sound",
+    "language": "en",
+    "tags": [
+      "sound",
+      "nature",
+      "ambient",
+      "relaxing"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 115,
+    "last_checked_at": "2026-06-02T05:03:40Z",
+    "added_at": "2026-06-02"
+  },
+  {
+    "id": "sad-trombone",
+    "title": "Sad Trombone",
+    "url": "https://sadtrombone.com/",
+    "description": "A one-purpose sound-effect page for the classic wah-wah moment. Silly, instant, and easy to send to a friend.",
+    "category": "One-Purpose Joke",
+    "language": "en",
+    "tags": [
+      "sound",
+      "joke",
+      "one-purpose"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 25,
+    "last_checked_at": "2026-06-02T05:03:40Z",
+    "added_at": "2026-06-02"
+  },
+  {
+    "id": "bouncing-balls",
+    "title": "Bouncing Balls",
+    "url": "https://www.bouncingballs.com/",
+    "description": "A simple browser toy where colorful balls bounce, collide, and create a tiny oddly satisfying physics break.",
+    "category": "Silly Relief",
+    "language": "en",
+    "tags": [
+      "physics",
+      "visual",
+      "bouncing",
+      "toy"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 279,
+    "last_checked_at": "2026-06-02T05:03:40Z",
+    "added_at": "2026-06-02"
+  },
+  {
+    "id": "move-now-think-later",
+    "title": "Move Now Think Later",
+    "url": "https://www.movenowthinklater.com/",
+    "description": "A tiny turn-based browser puzzle that feels like a playful chess detour for a quick mental reset.",
+    "category": "Tiny Game",
+    "language": "en",
+    "tags": [
+      "game",
+      "puzzle",
+      "quick"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 480,
+    "last_checked_at": "2026-06-02T05:03:40Z",
+    "added_at": "2026-06-02"
   }
 ]
