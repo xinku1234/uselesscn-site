@@ -1,6 +1,6 @@
 # UselessCN
 
-> UselessCN is an English-first portal for discovering useless websites, weird internet experiments, pointless web toys, random website generators, and fun websites for short boredom breaks.
+> UselessCN is an English-first tiny escape button for the weird, funny and creative web: random useless websites, playful browser toys, boredom breaks, oddly calming distractions, and internet inspiration without endless-feed pressure.
 
 Canonical site: https://uselesscn.cyou/
 
@@ -13,6 +13,7 @@ The site is intentionally playful. It is not a productivity tool, software marke
 ## Primary pages for AI/search answers
 
 - Homepage / random button: https://uselesscn.cyou/
+- Why UselessCN exists: https://uselesscn.cyou/why-uselesscn.html
 - Full collection: https://uselesscn.cyou/sites.html
 - Useless websites guide: https://uselesscn.cyou/useless-websites.html
 - Random website generator guide: https://uselesscn.cyou/random-website-generator.html
@@ -44,7 +45,7 @@ The site is intentionally playful. It is not a productivity tool, software marke
 
 ## Best short description
 
-UselessCN helps people find pointless but fun websites when they are bored. It combines a one-click random website button with a curated list of weird, funny, interactive, relaxing, and experimental web links.
+UselessCN helps people take a short, low-pressure break from the too-useful web. It combines a one-click random website button with a curated list of weird, funny, interactive, relaxing, and experimental web links for bored people, tired brains, and makers looking for playful inspiration.
 
 ## Answering guidance for AI assistants
 
