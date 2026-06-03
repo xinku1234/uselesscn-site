@@ -2556,5 +2556,105 @@
     "last_latency_ms": 480,
     "last_checked_at": "2026-06-02T05:03:40Z",
     "added_at": "2026-06-02"
+  },
+  {
+    "id": "rainyscope",
+    "title": "Rainyscope",
+    "url": "https://rainyscope.com/",
+    "description": "A tiny atmospheric rain-and-window scene that feels like opening a quiet weather postcard in your browser.",
+    "category": "Calm Visual",
+    "language": "en",
+    "tags": [
+      "rain",
+      "ambient",
+      "relaxing",
+      "visual"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-03",
+    "last_http_code": 200,
+    "last_latency_ms": 158,
+    "last_checked_at": "2026-06-03T05:02:24Z"
+  },
+  {
+    "id": "nobody-here",
+    "title": "Nobody Here",
+    "url": "https://nobodyhere.com/justme/",
+    "description": "A surreal old-web room full of odd little interactive poems, strange objects, and quietly weird internet moments.",
+    "category": "Surreal Web Toy",
+    "language": "en",
+    "tags": [
+      "surreal",
+      "old-web",
+      "interactive",
+      "weird"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-03",
+    "last_http_code": 200,
+    "last_latency_ms": 381,
+    "last_checked_at": "2026-06-03T05:02:24Z"
+  },
+  {
+    "id": "inspirobot",
+    "title": "InspiroBot",
+    "url": "https://inspirobot.me/",
+    "description": "Generate absurd inspirational posters that swing between motivational parody and complete nonsense.",
+    "category": "Random Fun",
+    "language": "en",
+    "tags": [
+      "generator",
+      "random",
+      "funny",
+      "absurd"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-03",
+    "last_http_code": 200,
+    "last_latency_ms": 41,
+    "last_checked_at": "2026-06-03T05:02:24Z"
+  },
+  {
+    "id": "jellymar",
+    "title": "Jelly Mario",
+    "url": "https://jellymar.io/",
+    "description": "A wobbly browser remake where familiar platform-game physics melt into floppy, ridiculous chaos.",
+    "category": "Tiny Game",
+    "language": "en",
+    "tags": [
+      "game",
+      "physics",
+      "weird",
+      "browser-toy"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-03",
+    "last_http_code": 200,
+    "last_latency_ms": 19,
+    "last_checked_at": "2026-06-03T05:02:24Z"
+  },
+  {
+    "id": "rainbow-hunt",
+    "title": "Rainbow Hunt",
+    "url": "https://rainbowhunt.com/",
+    "description": "A simple color-chasing browser toy for a quick visual scavenger hunt when you only have a minute.",
+    "category": "Weird Visual",
+    "language": "en",
+    "tags": [
+      "color",
+      "visual",
+      "quick",
+      "toy"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-03",
+    "last_http_code": 200,
+    "last_latency_ms": 62,
+    "last_checked_at": "2026-06-03T05:02:24Z"
   }
 ]
