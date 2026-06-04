@@ -2656,5 +2656,105 @@
     "last_http_code": 200,
     "last_latency_ms": 62,
     "last_checked_at": "2026-06-03T05:02:24Z"
+  },
+  {
+    "id": "eel-slap",
+    "title": "Eel Slap",
+    "url": "http://eelslap.com/",
+    "description": "A classic useless website where moving your mouse delivers a slapstick eel slap across the screen. Fast, silly, and instantly understandable.",
+    "category": "Classic Pointless",
+    "language": "en",
+    "tags": [
+      "classic",
+      "mouse",
+      "slapstick",
+      "weird"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 176,
+    "last_checked_at": "2026-06-04T05:13:46Z",
+    "added_at": "2026-06-04"
+  },
+  {
+    "id": "corn-dog",
+    "title": "Corn Dog",
+    "url": "https://corndog.io/",
+    "description": "A hypnotic browser loop of falling corn dogs: completely pointless, visually funny, and ideal for a tiny boredom break.",
+    "category": "Silly Relief",
+    "language": "en",
+    "tags": [
+      "loop",
+      "funny",
+      "visual",
+      "snack"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 42,
+    "last_checked_at": "2026-06-04T05:13:46Z",
+    "added_at": "2026-06-04"
+  },
+  {
+    "id": "rrr-ggg-bbb",
+    "title": "RRR GGG BBB",
+    "url": "https://rrrgggbbb.com/",
+    "description": "A minimal red-green-blue color toy that flickers into a strange, oddly satisfying visual reset.",
+    "category": "Weird Visual",
+    "language": "en",
+    "tags": [
+      "color",
+      "visual",
+      "minimal",
+      "toy"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 380,
+    "last_checked_at": "2026-06-04T05:13:46Z",
+    "added_at": "2026-06-04"
+  },
+  {
+    "id": "remoji",
+    "title": "Remoji",
+    "url": "https://remoji.com/",
+    "description": "An emoji playground for quick visual combinations, tiny reactions, and shareable nonsense in the browser.",
+    "category": "Random Fun",
+    "language": "en",
+    "tags": [
+      "emoji",
+      "generator",
+      "playful",
+      "quick"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 103,
+    "last_checked_at": "2026-06-04T05:13:46Z",
+    "added_at": "2026-06-04"
+  },
+  {
+    "id": "cursor-effects",
+    "title": "Cursor Effects",
+    "url": "https://tholman.com/cursor-effects/",
+    "description": "A playful collection of cursor trails and pointer effects that turns simple mouse movement into a tiny browser toy.",
+    "category": "Browser Toy",
+    "language": "en",
+    "tags": [
+      "cursor",
+      "interactive",
+      "visual",
+      "toy"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 156,
+    "last_checked_at": "2026-06-04T05:13:46Z",
+    "added_at": "2026-06-04"
   }
 ]
