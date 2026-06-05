@@ -2756,5 +2756,105 @@
     "last_latency_ms": 156,
     "last_checked_at": "2026-06-04T05:13:46Z",
     "added_at": "2026-06-04"
+  },
+  {
+    "id": "large-hadron-collider-status",
+    "title": "Has the Large Hadron Collider Destroyed the World Yet?",
+    "url": "https://www.hasthelargehadroncolliderdestroyedtheworldyet.com/",
+    "description": "A classic one-question website that answers a very large cosmic worry with one tiny word. Minimal, absurd, and instantly understood.",
+    "category": "One-Purpose Site",
+    "language": "en",
+    "tags": [
+      "one-purpose",
+      "science-joke",
+      "minimal",
+      "classic"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 40,
+    "last_checked_at": "2026-06-05T05:03:49Z",
+    "added_at": "2026-06-05"
+  },
+  {
+    "id": "hakim-coil",
+    "title": "Coil by Hakim El Hattab",
+    "url": "https://lab.hakim.se/coil/",
+    "description": "A clean interactive HTML5 toy where a springy coil follows your pointer and turns simple mouse movement into a smooth visual fidget.",
+    "category": "Browser Fidget Toy",
+    "language": "en",
+    "tags": [
+      "cursor",
+      "visual",
+      "fidget",
+      "interactive"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 26,
+    "last_checked_at": "2026-06-05T05:03:49Z",
+    "added_at": "2026-06-05"
+  },
+  {
+    "id": "sinuous",
+    "title": "Sinuous",
+    "url": "https://lab.hakim.se/sinuous/01/",
+    "description": "A minimalist mouse-avoidance browser toy where flowing red dots chase through the screen in a quick, hypnotic micro-game.",
+    "category": "Tiny Browser Game",
+    "language": "en",
+    "tags": [
+      "mouse",
+      "avoidance",
+      "minimal",
+      "game"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 29,
+    "last_checked_at": "2026-06-05T05:03:49Z",
+    "added_at": "2026-06-05"
+  },
+  {
+    "id": "harmony-mrdoob",
+    "title": "Harmony by Mr.doob",
+    "url": "https://mrdoob.com/projects/harmony/",
+    "description": "A lightweight browser sketchpad that turns casual strokes into soft, generative line art for a calm creative break.",
+    "category": "Drawing Toy",
+    "language": "en",
+    "tags": [
+      "drawing",
+      "art",
+      "creative",
+      "browser-toy"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 13,
+    "last_checked_at": "2026-06-05T05:03:49Z",
+    "added_at": "2026-06-05"
+  },
+  {
+    "id": "google-space-mrdoob",
+    "title": "Google Space",
+    "url": "https://mrdoob.com/projects/chromeexperiments/google-space/",
+    "description": "A classic Mr.doob experiment that makes a familiar search page float apart in zero gravity for playful clicking and dragging.",
+    "category": "Classic Browser Experiment",
+    "language": "en",
+    "tags": [
+      "gravity",
+      "classic",
+      "interactive",
+      "physics"
+    ],
+    "featured": false,
+    "status": "alive",
+    "last_http_code": 200,
+    "last_latency_ms": 11,
+    "last_checked_at": "2026-06-05T05:03:49Z",
+    "added_at": "2026-06-05"
   }
 ]
