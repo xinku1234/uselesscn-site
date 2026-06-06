@@ -18,6 +18,14 @@ User-agent: PerplexityBot
 Content-Signal: search=yes,ai-input=yes,ai-train=no
 Allow: /
 
+User-agent: Google-Extended
+Content-Signal: search=yes,ai-input=yes,ai-train=no
+Allow: /
+
+User-agent: CCBot
+Content-Signal: search=yes,ai-input=yes,ai-train=no
+Allow: /
+
 User-agent: Googlebot
 Allow: /
 
@@ -25,4 +33,4 @@ User-agent: Bingbot
 Allow: /
 
 Sitemap: https://uselesscn.cyou/sitemap.xml
-LLMS: https://uselesscn.cyou/llms.txt
+LLMs: https://uselesscn.cyou/llms.txt

@@ -93,6 +93,15 @@ for new_site_id in ["slow-roads", "oimo-life", "google-gravity-mrdoob"]:
 robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
 require("ai-input=yes" in robots and "ai-train=no" in robots, "robots declares AI search input allowed and AI training reserved")
 
+index_text = (ROOT / "index.html").read_text(encoding="utf-8")
+require(index_text.lower().count("<h2") >= 3, "homepage has at least three H2 section anchors")
+for phrase in ["Useful references for the playful web culture", "https://theuselessweb.com/", "https://neal.fun/", "https://experiments.withgoogle.com/collection/chrome"]:
+    require(phrase in index_text, f"homepage contextual references include: {phrase}")
+robots_text = (ROOT / "robots.txt").read_text(encoding="utf-8")
+require("Disallow: /" not in robots_text, "robots.txt does not block the whole site")
+for bot in ["GPTBot", "ClaudeBot", "PerplexityBot", "Google-Extended", "CCBot"]:
+    require(bot in robots_text, f"robots.txt has explicit AI crawler rule for {bot}")
+
 if errors:
     print("GEO verification failed:")
     for e in errors:
