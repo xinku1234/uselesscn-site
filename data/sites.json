@@ -2952,5 +2952,81 @@
     "last_checked_at": "2026-06-06T05:04:53Z",
     "status": "alive",
     "added_at": "2026-06-06"
+  },
+  {
+    "id": "man-in-the-dark",
+    "title": "Man in the Dark",
+    "url": "https://maninthedark.com/",
+    "description": "A browser-based interactive art piece where a tiny running figure reacts to your cursor in a strange dark room.",
+    "category": "Surreal Interactive",
+    "language": "en",
+    "tags": [
+      "surreal",
+      "cursor",
+      "art"
+    ],
+    "featured": false,
+    "last_http_code": 200,
+    "last_latency_ms": 106,
+    "last_checked_at": "2026-06-07T05:02:20Z",
+    "status": "alive",
+    "added_at": "2026-06-07"
+  },
+  {
+    "id": "music-lab-oscillators",
+    "title": "Chrome Music Lab Oscillators",
+    "url": "https://musiclab.chromeexperiments.com/Oscillators/",
+    "description": "A simple sound toy where friendly animated blobs turn pitch and motion into a quick playful audio break.",
+    "category": "Sound Toy",
+    "language": "en",
+    "tags": [
+      "music",
+      "sound",
+      "one-click"
+    ],
+    "featured": false,
+    "last_http_code": 202,
+    "last_latency_ms": 71,
+    "last_checked_at": "2026-06-07T05:02:20Z",
+    "status": "alive",
+    "added_at": "2026-06-07"
+  },
+  {
+    "id": "radiooooo",
+    "title": "Radiooooo",
+    "url": "https://radiooooo.com/",
+    "description": "A colorful time-travel radio map for drifting through songs by country and decade when you want a low-effort audio detour.",
+    "category": "Audio Discovery",
+    "language": "en",
+    "tags": [
+      "music",
+      "map",
+      "ambient"
+    ],
+    "featured": false,
+    "last_http_code": 200,
+    "last_latency_ms": 461,
+    "last_checked_at": "2026-06-07T05:02:20Z",
+    "status": "alive",
+    "added_at": "2026-06-07"
+  },
+  {
+    "id": "mondrian-fun",
+    "title": "Mondrian.Fun",
+    "url": "https://mondrian.fun/",
+    "description": "A tiny browser art toy for making playful Mondrian-style blocks and color compositions in seconds.",
+    "category": "Art Toy",
+    "language": "en",
+    "tags": [
+      "art",
+      "color",
+      "interactive"
+    ],
+    "featured": false,
+    "last_http_code": 200,
+    "last_latency_ms": 74,
+    "last_checked_at": "2026-06-07T05:02:20Z",
+    "status": "alive",
+    "added_at": "2026-06-07"
   }
 ]
