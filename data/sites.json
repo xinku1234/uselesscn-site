@@ -3028,5 +3028,62 @@
     "last_checked_at": "2026-06-07T05:02:20Z",
     "status": "alive",
     "added_at": "2026-06-07"
+  },
+  {
+    "id": "pink-trombone",
+    "title": "Pink Trombone",
+    "url": "https://dood.al/pinktrombone/",
+    "description": "A bizarre speech-synthesis toy where dragging a mouth and throat turns the browser into a very odd vocal instrument.",
+    "category": "Sound Toy",
+    "language": "en",
+    "tags": [
+      "sound",
+      "voice",
+      "weird"
+    ],
+    "featured": false,
+    "added_at": "2026-06-08",
+    "last_http_code": 200,
+    "last_latency_ms": 210,
+    "last_checked_at": "2026-06-08T05:04:29Z",
+    "status": "alive"
+  },
+  {
+    "id": "gpu-fluid-experiments",
+    "title": "GPU Fluid Experiments",
+    "url": "https://haxiomic.github.io/GPU-Fluid-Experiments/html5/",
+    "description": "Push colorful simulated fluid around the browser for a smooth visual fidget break with no goal except motion.",
+    "category": "Visual Fidget",
+    "language": "en",
+    "tags": [
+      "fluid",
+      "visual",
+      "fidget"
+    ],
+    "featured": false,
+    "added_at": "2026-06-08",
+    "last_http_code": 200,
+    "last_latency_ms": 19,
+    "last_checked_at": "2026-06-08T05:04:29Z",
+    "status": "alive"
+  },
+  {
+    "id": "procatinator",
+    "title": "Procatinator",
+    "url": "https://procatinator.com/",
+    "description": "A cat-powered random distraction machine that pairs quick cat clips with music for a tiny absurd break.",
+    "category": "Silly Randomizer",
+    "language": "en",
+    "tags": [
+      "cat",
+      "random",
+      "silly"
+    ],
+    "featured": false,
+    "added_at": "2026-06-08",
+    "last_http_code": 200,
+    "last_latency_ms": 469,
+    "last_checked_at": "2026-06-08T05:04:29Z",
+    "status": "alive"
   }
 ]
