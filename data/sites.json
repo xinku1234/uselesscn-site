@@ -3085,5 +3085,81 @@
     "last_latency_ms": 469,
     "last_checked_at": "2026-06-08T05:04:29Z",
     "status": "alive"
+  },
+  {
+    "id": "the-quiet-place-project",
+    "title": "The Quiet Place Project",
+    "url": "https://thequietplaceproject.xyz/thequietplace",
+    "description": "A deliberately quiet, full-screen pause that asks you to slow down, breathe, and stop multitasking for a few minutes.",
+    "category": "Calm & Zen",
+    "language": "en",
+    "tags": [
+      "quiet",
+      "calm",
+      "mindful"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-09",
+    "last_http_code": 200,
+    "last_latency_ms": 65,
+    "last_checked_at": "2026-06-09T05:03:24Z"
+  },
+  {
+    "id": "zombo-com",
+    "title": "Zombo.com",
+    "url": "https://zombo.com/",
+    "description": "A classic absurd web joke where an endlessly enthusiastic voice insists that anything is possible at Zombo.com.",
+    "category": "Classic Pointless",
+    "language": "en",
+    "tags": [
+      "classic",
+      "absurd",
+      "audio"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-09",
+    "last_http_code": 200,
+    "last_latency_ms": 62,
+    "last_checked_at": "2026-06-09T05:03:24Z"
+  },
+  {
+    "id": "hakim-core",
+    "title": "Core by Hakim El Hattab",
+    "url": "https://lab.hakim.se/core/",
+    "description": "A small glowing creative-coding experiment with moving particles and a hypnotic center-point visual.",
+    "category": "Visual Toy",
+    "language": "en",
+    "tags": [
+      "visual",
+      "particles",
+      "creative-coding"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-09",
+    "last_http_code": 200,
+    "last_latency_ms": 39,
+    "last_checked_at": "2026-06-09T05:03:24Z"
+  },
+  {
+    "id": "little-alchemy",
+    "title": "Little Alchemy",
+    "url": "https://littlealchemy.com/",
+    "description": "A light browser mixing game where you combine elements into surprising new things at a relaxed pace.",
+    "category": "Tiny Game",
+    "language": "en",
+    "tags": [
+      "game",
+      "alchemy",
+      "puzzle"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-09",
+    "last_http_code": 200,
+    "last_latency_ms": 46,
+    "last_checked_at": "2026-06-09T05:03:24Z"
   }
 ]
