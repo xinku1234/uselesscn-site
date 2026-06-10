@@ -3161,5 +3161,105 @@
     "last_http_code": 200,
     "last_latency_ms": 46,
     "last_checked_at": "2026-06-09T05:03:24Z"
+  },
+  {
+    "id": "every-noise-at-once",
+    "title": "Every Noise at Once",
+    "url": "https://everynoise.com/",
+    "description": "A sprawling clickable map of music genres that turns exploration into a weird, rabbit-hole audio toy.",
+    "category": "Audio Exploration",
+    "language": "en",
+    "tags": [
+      "music",
+      "audio",
+      "exploration",
+      "weird"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-10",
+    "last_http_code": 200,
+    "last_latency_ms": 104,
+    "last_checked_at": "2026-06-10T05:03:17Z"
+  },
+  {
+    "id": "emoji-kitchen-browser",
+    "title": "Emoji Kitchen Browser",
+    "url": "https://emoji.supply/kitchen/",
+    "description": "Mix emoji into strange sticker-like combinations in a fast browser toy for silly visual surprises.",
+    "category": "Silly Relief",
+    "language": "en",
+    "tags": [
+      "emoji",
+      "silly",
+      "visual",
+      "toy"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-10",
+    "last_http_code": 200,
+    "last_latency_ms": 53,
+    "last_checked_at": "2026-06-10T05:03:17Z"
+  },
+  {
+    "id": "webgl-water",
+    "title": "WebGL Water",
+    "url": "https://madebyevan.com/webgl-water/",
+    "description": "Drag and disturb a shiny simulated pool of browser water, complete with reflections and ripples.",
+    "category": "Interactive Visual",
+    "language": "en",
+    "tags": [
+      "webgl",
+      "water",
+      "visual",
+      "interactive"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-10",
+    "last_http_code": 200,
+    "last_latency_ms": 69,
+    "last_checked_at": "2026-06-10T05:03:17Z"
+  },
+  {
+    "id": "longplayer",
+    "title": "Longplayer",
+    "url": "https://longplayer.org/",
+    "description": "Listen to a calm, generative music piece designed to play for a thousand years.",
+    "category": "Ambient Sound",
+    "language": "en",
+    "tags": [
+      "ambient",
+      "music",
+      "calm",
+      "sound"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-10",
+    "last_http_code": 200,
+    "last_latency_ms": 116,
+    "last_checked_at": "2026-06-10T05:03:17Z"
+  },
+  {
+    "id": "bitlisten",
+    "title": "BitListen",
+    "url": "https://www.bitlisten.com/",
+    "description": "Turns live Bitcoin transactions into soft bubbles and musical notes, making network activity oddly hypnotic.",
+    "category": "Ambient Sound",
+    "language": "en",
+    "tags": [
+      "ambient",
+      "sound",
+      "data",
+      "visual"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-10",
+    "last_http_code": 200,
+    "last_latency_ms": 25,
+    "last_checked_at": "2026-06-10T05:03:17Z"
   }
 ]
