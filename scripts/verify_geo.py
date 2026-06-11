@@ -88,6 +88,25 @@ if ambient_page_path.exists():
     index_text = (ROOT / "index.html").read_text(encoding="utf-8")
     require("ambient-visual-websites.html" in index_text, "homepage links ambient visual page")
 
+work_break_page_path = ROOT / "websites-for-short-breaks-at-work.html"
+require(work_break_page_path.exists(), "short work breaks SEO page exists")
+if work_break_page_path.exists():
+    work_break_page = work_break_page_path.read_text(encoding="utf-8")
+    for phrase in [
+        "Websites for Short Breaks at Work",
+        "quiet, low-risk browser breaks",
+        "two-minute reset",
+        "safe-for-work checklist",
+        "Sponsor slot",
+        "FAQPage",
+        "Random Generator",
+    ]:
+        require(phrase in work_break_page, f"short work breaks page contains: {phrase}")
+    require("https://uselesscn.cyou/websites-for-short-breaks-at-work.html" in sitemap, "sitemap includes short work breaks page")
+    require("Websites for short breaks at work" in llms_text, "llms.txt includes short work breaks page")
+    index_text = (ROOT / "index.html").read_text(encoding="utf-8")
+    require("websites-for-short-breaks-at-work.html" in index_text, "homepage links short work breaks page")
+
 for new_site_id in ["slow-roads", "oimo-life", "google-gravity-mrdoob"]:
     require(any(s.get("id") == new_site_id for s in sites), f"site pool includes {new_site_id}")
 robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
