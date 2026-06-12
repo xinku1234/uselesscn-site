@@ -3337,5 +3337,63 @@
     "last_latency_ms": 37,
     "added_at": "2026-06-11",
     "last_checked_at": "2026-06-11T05:04:58Z"
+  },
+  {
+    "id": "i-am-awesome",
+    "title": "I Am Awesome",
+    "url": "https://www.iamawesome.com/",
+    "description": "A tiny website that reminds you of your awesomeness. That's all it does, and that's enough.",
+    "category": "Wholesome Break",
+    "language": "en",
+    "tags": [
+      "wholesome",
+      "one-purpose",
+      "minimal"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-12",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "1970-01-01T00:00:00Z"
+  },
+  {
+    "id": "button-button",
+    "title": "Button Button",
+    "url": "https://www.rrrrthatsme.com/button-button/",
+    "description": "Find the right button among many in a quick, playful browser micro-game.",
+    "category": "Tiny Game",
+    "language": "en",
+    "tags": [
+      "game",
+      "button",
+      "minimal"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-12",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "1970-01-01T00:00:00Z"
+  },
+  {
+    "id": "particles-io",
+    "title": "Particles.io",
+    "url": "https://particles.io/",
+    "description": "A classic interactive particle simulation that turns your cursor into a playful gravitational force.",
+    "category": "Visual Fidget",
+    "language": "en",
+    "tags": [
+      "particles",
+      "visual",
+      "fidget",
+      "cursor"
+    ],
+    "featured": false,
+    "status": "alive",
+    "added_at": "2026-06-12",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "1970-01-01T00:00:00Z"
   }
 ]
