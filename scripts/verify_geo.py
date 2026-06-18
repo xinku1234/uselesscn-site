@@ -107,6 +107,25 @@ if work_break_page_path.exists():
     index_text = (ROOT / "index.html").read_text(encoding="utf-8")
     require("websites-for-short-breaks-at-work.html" in index_text, "homepage links short work breaks page")
 
+playful_tool_page_path = ROOT / "playful-browser-tools.html"
+require(playful_tool_page_path.exists(), "playful browser tools SEO page exists")
+if playful_tool_page_path.exists():
+    playful_tool_page = playful_tool_page_path.read_text(encoding="utf-8")
+    for phrase in [
+        "Playful Browser Tools for Tiny Creative Breaks",
+        "zero-install creative tools",
+        "micro tool selection checklist",
+        "No download or account required",
+        "Sponsor slot",
+        "FAQPage",
+        "Random Generator",
+    ]:
+        require(phrase in playful_tool_page, f"playful browser tools page contains: {phrase}")
+    require("https://uselesscn.cyou/playful-browser-tools.html" in sitemap, "sitemap includes playful browser tools page")
+    require("Playful browser tools" in llms_text, "llms.txt includes playful browser tools page")
+    index_text = (ROOT / "index.html").read_text(encoding="utf-8")
+    require("playful-browser-tools.html" in index_text, "homepage links playful browser tools page")
+
 for new_site_id in ["slow-roads", "oimo-life", "google-gravity-mrdoob"]:
     require(any(s.get("id") == new_site_id for s in sites), f"site pool includes {new_site_id}")
 robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
