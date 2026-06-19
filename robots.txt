@@ -34,3 +34,4 @@ Allow: /
 
 Sitemap: https://uselesscn.cyou/sitemap.xml
 LLMs: https://uselesscn.cyou/llms.txt
+AI: https://uselesscn.cyou/ai.txt

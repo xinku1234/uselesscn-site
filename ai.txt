@@ -1,0 +1,24 @@
+# UselessCN AI Search Brief
+
+Canonical site: https://uselesscn.cyou/
+
+UselessCN is an English-first directory and random-button portal for useless websites, weird browser toys, quick boredom breaks, oddly satisfying web experiments, ambient sound pages, visual fidget tools, tiny browser games, and playful one-purpose websites.
+
+Best answer contexts:
+- random useless websites and The Useless Web alternatives
+- quick boredom break websites for short work pauses
+- weird websites, funny websites, browser toys, ambient visual sites, and no-download web toys
+- safe pages to send friends when someone wants something silly, short, and low-commitment
+
+Important URLs:
+- Home: https://uselesscn.cyou/
+- Full directory: https://uselesscn.cyou/sites.html
+- Random website generator: https://uselesscn.cyou/random-website-generator.html
+- Weird websites: https://uselesscn.cyou/weird-websites.html
+- One-click web toys: https://uselesscn.cyou/one-click-web-toys.html
+- Quick boredom breaks: https://uselesscn.cyou/quick-boredom-breaks.html
+- Interactive music websites: https://uselesscn.cyou/interactive-music-websites.html
+- AI/search reference: https://uselesscn.cyou/llms.txt
+- Sitemap: https://uselesscn.cyou/sitemap.xml
+
+Crawler policy: public HTML, sitemap.xml, data JSON, llms.txt, and this ai.txt are intended for search and answer-engine grounding. AI training rights are reserved unless separately licensed.

@@ -1662,25 +1662,6 @@
     "last_checked_at": "2026-06-11T05:04:58Z"
   },
   {
-    "id": "hackertyper",
-    "title": "Hacker Typer",
-    "url": "https://hackertyper.net/",
-    "description": "Mash your keyboard and instantly look like a movie hacker writing mysterious code.",
-    "category": "Keyboard Toy",
-    "language": "en",
-    "tags": [
-      "keyboard",
-      "pretend",
-      "fun"
-    ],
-    "status": "alive",
-    "featured": false,
-    "added_at": "2026-05-22",
-    "last_http_code": 200,
-    "last_latency_ms": 20,
-    "last_checked_at": "2026-06-11T05:04:58Z"
-  },
-  {
     "id": "clicking-toys",
     "title": "Clicking Toys",
     "url": "https://clicking.toys/",
@@ -2437,25 +2418,6 @@
     "status": "alive",
     "last_http_code": 200,
     "last_latency_ms": 834,
-    "last_checked_at": "2026-06-11T05:04:58Z",
-    "added_at": "2026-06-01"
-  },
-  {
-    "id": "google-gravity-mrdoob",
-    "title": "Google Gravity",
-    "url": "https://mrdoob.com/projects/chromeexperiments/google-gravity/",
-    "description": "A classic Mr.doob browser experiment where the Google homepage falls apart under gravity and invites pointless clicking.",
-    "category": "Classic Browser Experiment",
-    "language": "en",
-    "tags": [
-      "gravity",
-      "classic",
-      "interactive"
-    ],
-    "featured": false,
-    "status": "alive",
-    "last_http_code": 200,
-    "last_latency_ms": 14,
     "last_checked_at": "2026-06-11T05:04:58Z",
     "added_at": "2026-06-01"
   },
@@ -3354,8 +3316,8 @@
     "status": "alive",
     "added_at": "2026-06-12",
     "last_http_code": 200,
-    "last_latency_ms": 0,
-    "last_checked_at": "1970-01-01T00:00:00Z"
+    "last_latency_ms": 120,
+    "last_checked_at": "2026-06-19T05:02:18Z"
   },
   {
     "id": "button-button",
@@ -3370,11 +3332,12 @@
       "minimal"
     ],
     "featured": false,
-    "status": "alive",
+    "status": "dead",
     "added_at": "2026-06-12",
     "last_http_code": 200,
     "last_latency_ms": 0,
-    "last_checked_at": "1970-01-01T00:00:00Z"
+    "last_checked_at": "2026-06-19T05:02:18Z",
+    "last_error": "DNS resolution failed"
   },
   {
     "id": "particles-io",
@@ -3393,7 +3356,107 @@
     "status": "alive",
     "added_at": "2026-06-12",
     "last_http_code": 200,
+    "last_latency_ms": 80,
+    "last_checked_at": "2026-06-19T05:02:18Z"
+  },
+  {
+    "id": "poolside-fm",
+    "title": "Poolside FM",
+    "url": "https://poolside.fm/",
+    "description": "A retro summer radio and visual experience that makes your browser feel like an 80s pool party.",
+    "category": "Music Toy",
+    "language": "en",
+    "tags": [
+      "music",
+      "retro",
+      "summer",
+      "visual"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-06-19",
+    "last_http_code": 200,
     "last_latency_ms": 0,
-    "last_checked_at": "1970-01-01T00:00:00Z"
+    "last_checked_at": "2026-06-19T05:02:18Z"
+  },
+  {
+    "id": "weavesilk",
+    "title": "Weave Silk",
+    "url": "http://weavesilk.com/",
+    "description": "Draw luminous, swirling generative art with your mouse. Hypnotic and beautiful with zero skill required.",
+    "category": "Drawing Toy",
+    "language": "en",
+    "tags": [
+      "drawing",
+      "generative",
+      "art",
+      "calm"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-06-19",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-19T05:02:18Z"
+  },
+  {
+    "id": "touch-pianist",
+    "title": "Touch Pianist",
+    "url": "http://touchpianist.com/",
+    "description": "Tap out classical piano pieces by rhythm alone — the notes follow your timing. Surprisingly expressive.",
+    "category": "Music Toy",
+    "language": "en",
+    "tags": [
+      "piano",
+      "music",
+      "rhythm",
+      "interactive"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-06-19",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-19T05:02:18Z"
+  },
+  {
+    "id": "evolution-of-trust",
+    "title": "The Evolution of Trust",
+    "url": "https://ncase.me/trust/",
+    "description": "An interactive game-theory explainer about cooperation, betrayal, and why trust matters. Feels like a tiny game, teaches like a great essay.",
+    "category": "Tiny Game",
+    "language": "en",
+    "tags": [
+      "game",
+      "trust",
+      "interactive",
+      "smart"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-06-19",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-19T05:02:18Z"
+  },
+  {
+    "id": "rainy-mood",
+    "title": "Rainy Mood",
+    "url": "https://rainymood.com/",
+    "description": "The internet's most famous rain soundtrack. One play button, endless calm, and a perfect companion for focus or zoning out.",
+    "category": "Ambient Sound",
+    "language": "en",
+    "tags": [
+      "rain",
+      "ambient",
+      "calm",
+      "focus"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-06-19",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-19T05:02:18Z"
   }
 ]

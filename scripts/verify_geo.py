@@ -126,7 +126,7 @@ if playful_tool_page_path.exists():
     index_text = (ROOT / "index.html").read_text(encoding="utf-8")
     require("playful-browser-tools.html" in index_text, "homepage links playful browser tools page")
 
-for new_site_id in ["slow-roads", "oimo-life", "google-gravity-mrdoob"]:
+for new_site_id in ["slow-roads", "oimo-life", "google-gravity"]:
     require(any(s.get("id") == new_site_id for s in sites), f"site pool includes {new_site_id}")
 robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
 require("ai-input=yes" in robots and "ai-train=no" in robots, "robots declares AI search input allowed and AI training reserved")
