@@ -3458,5 +3458,105 @@
     "last_http_code": 200,
     "last_latency_ms": 0,
     "last_checked_at": "2026-06-19T05:02:18Z"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "description": "Click a cookie, buy upgrades, watch numbers go up, and wonder where the last two hours went. The original idle game.",
+    "category": "Idle Game",
+    "language": "en",
+    "tags": [
+      "idle",
+      "clicker",
+      "addictive",
+      "classic"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-06-23",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-23T05:00:00Z"
+  },
+  {
+    "id": "how-many-people-in-space",
+    "title": "How Many People Are In Space Right Now",
+    "url": "https://www.howmanypeopleareinspacerightnow.com/",
+    "description": "A single-purpose website that tells you exactly how many humans are floating in space at this very moment. Surprisingly calming.",
+    "category": "Fact Toy",
+    "language": "en",
+    "tags": [
+      "space",
+      "fact",
+      "minimal",
+      "interesting"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-06-23",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-23T05:00:00Z"
+  },
+  {
+    "id": "i-need-a-prompt",
+    "title": "I Need A Prompt",
+    "url": "https://www.ineedaprompt.com/",
+    "description": "Hit the button and get a random creative writing prompt. Good for breaking a block or just reading something absurd.",
+    "category": "Creative Toy",
+    "language": "en",
+    "tags": [
+      "writing",
+      "prompt",
+      "creative",
+      "generator"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-06-23",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-23T05:00:00Z"
+  },
+  {
+    "id": "the-wiki-game",
+    "title": "The Wiki Game",
+    "url": "https://www.thewikigame.com/",
+    "description": "Race to navigate from one Wikipedia article to another using only in-page links. A rabbit-hole speedrun for the curious.",
+    "category": "Puzzle Game",
+    "language": "en",
+    "tags": [
+      "wikipedia",
+      "puzzle",
+      "navigation",
+      "competitive"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-06-23",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-23T05:00:00Z"
+  },
+  {
+    "id": "akinator",
+    "title": "Akinator",
+    "url": "https://en.akinator.com/",
+    "description": "Think of any fictional or real character and the web genie will guess who it is in under 20 questions. Eerily good.",
+    "category": "Guessing Game",
+    "language": "en",
+    "tags": [
+      "genie",
+      "guess",
+      "ai",
+      "magic"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-06-23",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-06-23T05:00:00Z"
   }
 ]
