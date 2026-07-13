@@ -3558,5 +3558,105 @@
     "last_http_code": 200,
     "last_latency_ms": 0,
     "last_checked_at": "2026-06-23T05:00:00Z"
+  },
+  {
+    "id": "the-evolution-of-trust",
+    "title": "The Evolution of Trust",
+    "url": "https://ncase.me/trust/",
+    "description": "An interactive guide to game theory, cooperation, and trust, beautifully illustrated by Natalie Celine. Learn why people cooperate through engaging stories and simulations.",
+    "category": "Educational Fun",
+    "language": "en",
+    "tags": [
+      "education",
+      "game-theory",
+      "interactive",
+      "illustration"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-07-13",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-07-13T05:00:00Z"
+  },
+  {
+    "id": "just-one-click",
+    "title": "Just One Click",
+    "url": "https://justoneclick.io/",
+    "description": "A satisfying one-click web toy that creates colorful particle explosions and visual effects. Press once and watch the magic unfold.",
+    "category": "Oddly Satisfying",
+    "language": "en",
+    "tags": [
+      "satisfying",
+      "particles",
+      "visual",
+      "one-click"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-07-13",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-07-13T05:00:00Z"
+  },
+  {
+    "id": "nodraw",
+    "title": "NoDraw",
+    "url": "https://nodraw.com/",
+    "description": "A simple, relaxing drawing toy for creative expression. No pressure, no judgment — just draw whatever comes to mind.",
+    "category": "Creative Browser Toys",
+    "language": "en",
+    "tags": [
+      "drawing",
+      "creative",
+      "relaxing",
+      "art"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-07-13",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-07-13T05:00:00Z"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "url": "https://hextris.io/",
+    "description": "An addictive puzzle game with hexagonal blocks. Match colors and shapes to clear tiles in this satisfying browser game.",
+    "category": "Browser Games",
+    "language": "en",
+    "tags": [
+      "puzzle",
+      "hexagonal",
+      "addictive",
+      "game"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-07-13",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-07-13T05:00:00Z"
+  },
+  {
+    "id": "smash-or-pass",
+    "title": "Smash or Pass",
+    "url": "https://smashorpass.com/",
+    "description": "A fun party game where you decide to smash or pass on various items, celebrities, and concepts. Share your choices with friends.",
+    "category": "Party Games",
+    "language": "en",
+    "tags": [
+      "party",
+      "game",
+      "fun",
+      "shareable"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-07-13",
+    "last_http_code": 200,
+    "last_latency_ms": 0,
+    "last_checked_at": "2026-07-13T05:00:00Z"
   }
 ]
