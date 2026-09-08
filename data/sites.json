@@ -3400,26 +3400,6 @@
     "last_checked_at": "2026-06-19T05:02:18Z"
   },
   {
-    "id": "touch-pianist",
-    "title": "Touch Pianist",
-    "url": "http://touchpianist.com/",
-    "description": "Tap out classical piano pieces by rhythm alone — the notes follow your timing. Surprisingly expressive.",
-    "category": "Music Toy",
-    "language": "en",
-    "tags": [
-      "piano",
-      "music",
-      "rhythm",
-      "interactive"
-    ],
-    "status": "alive",
-    "featured": false,
-    "added_at": "2026-06-19",
-    "last_http_code": 200,
-    "last_latency_ms": 0,
-    "last_checked_at": "2026-06-19T05:02:18Z"
-  },
-  {
     "id": "evolution-of-trust",
     "title": "The Evolution of Trust",
     "url": "https://ncase.me/trust/",
@@ -3431,26 +3411,6 @@
       "trust",
       "interactive",
       "smart"
-    ],
-    "status": "alive",
-    "featured": true,
-    "added_at": "2026-06-19",
-    "last_http_code": 200,
-    "last_latency_ms": 0,
-    "last_checked_at": "2026-06-19T05:02:18Z"
-  },
-  {
-    "id": "rainy-mood",
-    "title": "Rainy Mood",
-    "url": "https://rainymood.com/",
-    "description": "The internet's most famous rain soundtrack. One play button, endless calm, and a perfect companion for focus or zoning out.",
-    "category": "Ambient Sound",
-    "language": "en",
-    "tags": [
-      "rain",
-      "ambient",
-      "calm",
-      "focus"
     ],
     "status": "alive",
     "featured": true,
@@ -3560,26 +3520,6 @@
     "last_checked_at": "2026-06-23T05:00:00Z"
   },
   {
-    "id": "the-evolution-of-trust",
-    "title": "The Evolution of Trust",
-    "url": "https://ncase.me/trust/",
-    "description": "An interactive guide to game theory, cooperation, and trust, beautifully illustrated by Natalie Celine. Learn why people cooperate through engaging stories and simulations.",
-    "category": "Educational Fun",
-    "language": "en",
-    "tags": [
-      "education",
-      "game-theory",
-      "interactive",
-      "illustration"
-    ],
-    "status": "alive",
-    "featured": false,
-    "added_at": "2026-07-13",
-    "last_http_code": 200,
-    "last_latency_ms": 0,
-    "last_checked_at": "2026-07-13T05:00:00Z"
-  },
-  {
     "id": "just-one-click",
     "title": "Just One Click",
     "url": "https://justoneclick.io/",
@@ -3658,5 +3598,105 @@
     "last_http_code": 200,
     "last_latency_ms": 0,
     "last_checked_at": "2026-07-13T05:00:00Z"
+  },
+  {
+    "id": "floor-796",
+    "title": "Floor 796",
+    "url": "https://floor796.com/",
+    "description": "A massive animated pixel-art building you can explore floor by floor. Hover tiny characters and get lost in endless detail.",
+    "category": "Visual Exploration",
+    "language": "en",
+    "tags": [
+      "pixel-art",
+      "visual",
+      "explore",
+      "ambient"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-07-18",
+    "last_http_code": 200,
+    "last_latency_ms": 350,
+    "last_checked_at": "2026-07-18T05:06:01Z"
+  },
+  {
+    "id": "pixel-thoughts",
+    "title": "Pixel Thoughts",
+    "url": "https://www.pixelthoughts.co/",
+    "description": "Type a worry and watch it dissolve into a calm starfield. A 60-second anxiety reset for your browser.",
+    "category": "Calm Break",
+    "language": "en",
+    "tags": [
+      "calm",
+      "anxiety",
+      "minimal",
+      "reset"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-07-18",
+    "last_http_code": 200,
+    "last_latency_ms": 46,
+    "last_checked_at": "2026-07-18T05:06:01Z"
+  },
+  {
+    "id": "scale-of-the-universe",
+    "title": "Scale of the Universe",
+    "url": "https://scaleofuniverse.com/",
+    "description": "Zoom from the Planck length to the observable universe on one interactive scale. Instant cosmic perspective.",
+    "category": "Interactive Perspective",
+    "language": "en",
+    "tags": [
+      "space",
+      "scale",
+      "interactive",
+      "science"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-07-18",
+    "last_http_code": 200,
+    "last_latency_ms": 566,
+    "last_checked_at": "2026-07-18T05:06:01Z"
+  },
+  {
+    "id": "the-true-size-of",
+    "title": "The True Size Of",
+    "url": "https://www.thetruesize.com/",
+    "description": "Drag countries around a world map to compare their real geographic size without Mercator distortion.",
+    "category": "Interactive Perspective",
+    "language": "en",
+    "tags": [
+      "map",
+      "geography",
+      "interactive",
+      "perspective"
+    ],
+    "status": "alive",
+    "featured": true,
+    "added_at": "2026-07-18",
+    "last_http_code": 200,
+    "last_latency_ms": 98,
+    "last_checked_at": "2026-07-18T05:06:01Z"
+  },
+  {
+    "id": "is-it-friday-yet",
+    "title": "Is It Friday Yet?",
+    "url": "https://isitfridayyet.net/",
+    "description": "A single-purpose classic that answers one of life's most important questions: is it Friday yet?",
+    "category": "One Purpose",
+    "language": "en",
+    "tags": [
+      "classic",
+      "one-purpose",
+      "friday",
+      "pointless"
+    ],
+    "status": "alive",
+    "featured": false,
+    "added_at": "2026-07-18",
+    "last_http_code": 200,
+    "last_latency_ms": 22,
+    "last_checked_at": "2026-07-18T05:06:01Z"
   }
 ]
