@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "disclosure": "UselessCN may partner with indie tools, browser games, and creative platforms. All sponsored or affiliate placements are explicitly disclosed in compliance with advertising standards.",
+  "contact_email": "xie565699861@gmail.com",
+  "rates": {
+    "starter_text_sponsor_monthly_usd": 49,
+    "featured_pick_weekly_usd": 99,
+    "category_sponsor_monthly_usd": 199
+  },
+  "placement_slots": [
+    {
+      "slot_id": "home_featured_tool",
+      "placement": "Homepage below search and daily pick",
+      "format": "card",
+      "status": "placeholder",
+      "disclosure_label": "Sponsored Partner",
+      "title": "Your Creative Tool or Web Game Here",
+      "description": "Reach users looking for playful breaks, creative coding experiments, and unique browser utilities.",
+      "destination_url": "https://uselesscn.cyou/advertise.html",
+      "active": false
+    },
+    {
+      "slot_id": "seo_category_sidebar",
+      "placement": "Curated topic pages and directory listings",
+      "format": "text_banner",
+      "status": "placeholder",
+      "disclosure_label": "Partner Slot",
+      "title": "Sponsor This Topic Page",
+      "description": "Transparent flat-rate sponsor slot for safe, playful, or web-first creative tools.",
+      "destination_url": "https://uselesscn.cyou/advertise.html",
+      "active": false
+    }
+  ]
+}

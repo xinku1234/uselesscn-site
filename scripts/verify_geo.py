@@ -140,6 +140,25 @@ require("Disallow: /" not in robots_text, "robots.txt does not block the whole s
 for bot in ["GPTBot", "ClaudeBot", "PerplexityBot", "Google-Extended", "CCBot"]:
     require(bot in robots_text, f"robots.txt has explicit AI crawler rule for {bot}")
 
+# Monetization & AdSense verification
+adsense_client = "ca-pub-5024490295948394"
+html_files = list(ROOT.glob("*.html"))
+require(len(html_files) >= 50, "at least 50 HTML files exist")
+for h in html_files:
+    c = h.read_text(encoding="utf-8")
+    require(adsense_client in c, f"{h.name} contains Google AdSense client script tag")
+
+affiliate_file = ROOT / "data/affiliate.json"
+require(affiliate_file.exists(), "data/affiliate.json exists")
+if affiliate_file.exists():
+    aff_data = json.loads(affiliate_file.read_text(encoding="utf-8"))
+    require("placement_slots" in aff_data and len(aff_data["placement_slots"]) >= 2, "affiliate.json defines placement slots")
+    require("contact_email" in aff_data and aff_data["contact_email"] == "xie565699861@gmail.com", "affiliate.json defines contact email")
+
+adv_html = (ROOT / "advertise.html").read_text(encoding="utf-8")
+require("Monetization &amp; Partner Status" in adv_html, "advertise.html mentions monetization and partner status")
+require("Starter Sponsor" in adv_html, "advertise.html defines starter sponsor")
+
 if errors:
     print("GEO verification failed:")
     for e in errors:
